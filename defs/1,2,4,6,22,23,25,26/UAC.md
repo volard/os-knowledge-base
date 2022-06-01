@@ -1,1 +1,0 @@
-UAC - User Account Control

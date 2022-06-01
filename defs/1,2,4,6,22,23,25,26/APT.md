@@ -1,1 +1,0 @@
-APT - Advanced Packaging Tool 
