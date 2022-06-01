@@ -1,1 +1,0 @@
-Serenity Virtual Station(бывшая twoOStwo), разработанная российской компанией Параллели (Parallels) по заказу немецкой компании NetSys GmbH;
