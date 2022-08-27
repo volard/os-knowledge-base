@@ -1,1 +1,4 @@
-.obsidian
+.obsidian/cache
+.trash
+.DS_Store
+.obsidian.vimrc

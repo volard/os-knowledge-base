@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "323b1876e457dfb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b8fd9fd2692107f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Templates/Template.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "107b9660d6bad280",
+    "type": "split",
+    "children": [
+      {
+        "id": "8da04f368c127f8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d9a8c99010eb31b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea860ab7951b36dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8dd86d262905e456",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.5
+  },
+  "right": {
+    "id": "5a07ad26dbc621bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c448941c9bc0d9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9871b83cc34df7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "652d66920bc475a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "251ea070cb14bf82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bbc7476113ce3d3c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Template.md"
+              }
+            }
+          },
+          {
+            "id": "54665adf92f852a6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 460.5
+  },
+  "active": "54665adf92f852a6",
+  "lastOpenFiles": [
+    "Определения/1,2,4,6,22,23,25,26/ПО.md",
+    "Определения/1,2,4,6,22,23,25,26/ПК.md",
+    "Определения/1,2,4,6,22,23,25,26/ОС.md",
+    "Определения/1,2,4,6,22,23,25,26/неттоп.md",
+    "Определения/1,2,4,6,22,23,25,26/нетбук.md",
+    "Определения/1,2,4,6,22,23,25,26/ВМ.md",
+    "Определения/1,2,4,6,22,23,25,26/БИС.md",
+    "Определения/14/Pasted image 20220601010447.png",
+    "Определения/14/Pasted image 20220601010421.png",
+    "Определения/14/ВС.md"
+  ]
+}
