@@ -1,4 +1,7 @@
 [
   "obsidian-git",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "obsidian-to-anki-plugin",
+  "obsidian-emoji-toolbar",
+  "obsidian-excalidraw-plugin"
 ]
