@@ -1,7 +1,9 @@
 START
+Basic
 TARGET DECK: OS - 4 - экзамен
 
-BitLocker Drive Encryption  
+Front: BitLocker Drive Encryption  
 
-проприетарная технология шифрования дисков, являющаяся частью [[ОС]]
-
+Back: проприетарная технология шифрования дисков, являющаяся частью [[ОС]]
+<!--ID: 1663427618554-->
+END 

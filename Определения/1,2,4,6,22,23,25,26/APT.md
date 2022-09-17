@@ -1,7 +1,9 @@
 START
+Basic
 TARGET DECK: OS - 4 - экзамен
 
-APT  
+Front: APT  
 
-APT - Advanced Packaging Tool
-
+Back: APT - Advanced Packaging Tool
+<!--ID: 1663427618581-->
+END 

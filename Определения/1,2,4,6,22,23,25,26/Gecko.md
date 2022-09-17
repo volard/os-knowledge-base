@@ -1,7 +1,9 @@
 START
+Basic
 TARGET DECK: OS - 4 - экзамен
 
-Gecko  
+Front: Gecko  
 
-свободный движок вывода веб-страниц браузеров Mozilla Firefox, Netscape и других. Главная концепция Gecko заключается в поддержке открытых стандартов Интернета, таких как HTML, CSS, W3C, DOM, XML 1.0 и JavaScript. Другая концепция — кроссплатформенность. На сегодняшний день Gecko работает на операционных системах GNU, в том числе на ядре Linux (Android), Mac OS X, FreeBSD, Microsoft Windows, а также на Solaris, HP-UX, AIX, Irix, OS/2, OpenVMS, BeOS, Amiga и др.
-
+Back: свободный движок вывода веб-страниц браузеров Mozilla Firefox, Netscape и других. Главная концепция Gecko заключается в поддержке открытых стандартов Интернета, таких как HTML, CSS, W3C, DOM, XML 1.0 и JavaScript. Другая концепция — кроссплатформенность. На сегодняшний день Gecko работает на операционных системах GNU, в том числе на ядре Linux (Android), Mac OS X, FreeBSD, Microsoft Windows, а также на Solaris, HP-UX, AIX, Irix, OS/2, OpenVMS, BeOS, Amiga и др.
+<!--ID: 1663427618496-->
+END 

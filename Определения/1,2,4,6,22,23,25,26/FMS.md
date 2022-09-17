@@ -1,7 +1,9 @@
 START
+Basic
 TARGET DECK: OS - 4 - экзамен
 
-FMS  
+Front: FMS  
 
-Fortran Monitor System
-
+Back: Fortran Monitor System
+<!--ID: 1663427618501-->
+END 

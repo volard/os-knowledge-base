@@ -1,4 +1,4 @@
-# OS _pseudo_ knowledge base
-Bunch of notes dedicated to "Operation Systems" theory
+# OS actual knowledge base
+"Operation Systems" theory
 
 ### Open the repo with [Obsidian](https://obsidian.md) if u'r brave enought

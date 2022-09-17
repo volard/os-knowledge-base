@@ -1,9 +1,10 @@
-#todo 
 
 START
+Basic
 TARGET DECK: OS - 4 - экзамен
 
-L4Ka  
+Front: L4Ka  
 
-использующий микроядро;
-
+Back: использующий микроядро;
+<!--ID: 1663427618476-->
+END 
