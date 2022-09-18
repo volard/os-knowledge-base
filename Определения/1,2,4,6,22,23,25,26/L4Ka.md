@@ -1,10 +1,10 @@
 
+TARGET DECK: OS - 4 - экзамен
 START
 Basic
-TARGET DECK: OS - 4 - экзамен
 
 Front: L4Ka  
 
 Back: использующий микроядро;
-<!--ID: 1663427618476-->
+<!--ID: 1663488761261-->
 END 

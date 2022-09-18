@@ -1,9 +1,9 @@
+TARGET DECK: OS - 4 - экзамен
 START
 Basic
-TARGET DECK: OS - 4 - экзамен
 
 Front: UAC  
 
 Back: User Account Control
-<!--ID: 1663427618424-->
+<!--ID: 1663488761115-->
 END 
