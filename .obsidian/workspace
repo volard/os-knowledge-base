@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Определения/24/RISC.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225
+    "width": 299.5
   },
   "right": {
     "id": "5a07ad26dbc621bc",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Определения/24/RISC.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Определения/24/RISC.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Определения/24/RISC.md"
+                "file": "README.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "43ec3309a1970ea0",
   "lastOpenFiles": [
-    "Определения/15/Критическая секция.md",
-    "Определения/1,2,4,6,22,23,25,26/Windows 95.md",
-    "Определения/1,2,4,6,22,23,25,26/OpenSUSE.md",
-    "Определения/1,2,4,6,22,23,25,26/Android.md",
-    "Определения/1,2,4,6,22,23,25,26/Astra Linux.md",
-    "Определения/1,2,4,6,22,23,25,26/BIOS.md",
-    "Определения/1,2,4,6,22,23,25,26/Azure.md",
-    "10. Ядро ОС/Ядро Unix.md",
-    "10. Ядро ОС/Ядро Linux.md",
-    "Определения/1,2,4,6,22,23,25,26/Alibaba Group.md"
+    "Red Hat.md",
+    "3. ОС для мобильных устройств/Android.md",
+    "Android RunTime.md",
+    "Определения/Dalvik.md",
+    "3. ОС для мобильных устройств/Android Inc..md",
+    "Определения/Нативное приложение.md",
+    "Templates/Card.md",
+    "Определения/3/многозадачность.md",
+    "17. Отличия потоков выполнения от процессов в многозадачных ОС. Потоки и процессы/Процесс.md",
+    "17. Отличия потоков выполнения от процессов в многозадачных ОС. Потоки и процессы/Поток.md"
   ]
 }
