@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "15. Многопоточность-многозадачность/Процесс.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 508.5
   },
   "right": {
     "id": "5a07ad26dbc621bc",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "15. Многопоточность-многозадачность/Процесс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "15. Многопоточность-многозадачность/Процесс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "15. Многопоточность-многозадачность/Процесс.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "43ec3309a1970ea0",
   "lastOpenFiles": [
-    "Red Hat.md",
+    "16. Методы межпроцессного взаимодействия/$Обо всём и ни о чём.md",
+    "15. Многопоточность-многозадачность/Процесс.md",
+    "10. Ядро ОС/Ядро.excalidraw.md",
+    "3. ОС для мобильных устройств/iOS +-.md",
+    "3. ОС для мобильных устройств/iOS.md",
     "3. ОС для мобильных устройств/Android.md",
-    "Android RunTime.md",
-    "Определения/Dalvik.md",
-    "3. ОС для мобильных устройств/Android Inc..md",
-    "Определения/Нативное приложение.md",
+    "Templates/Template.md",
     "Templates/Card.md",
-    "Определения/3/многозадачность.md",
-    "17. Отличия потоков выполнения от процессов в многозадачных ОС. Потоки и процессы/Процесс.md",
-    "17. Отличия потоков выполнения от процессов в многозадачных ОС. Потоки и процессы/Поток.md"
+    "3. ОС для мобильных устройств/Windows Phone.md",
+    "3. ОС для мобильных устройств/Windows Phone +-.md"
   ]
 }
