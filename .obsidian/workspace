@@ -7,11 +7,9 @@
         "id": "43ec3309a1970ea0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Определения/24/SOAP.md",
-            "mode": "source",
-            "source": false
+            "file": "1. Краткая история развития ОС/Drawing 2022-09-17 23.29.23.excalidraw.md"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Определения/24/SOAP.md",
+                "file": "1. Краткая история развития ОС/Drawing 2022-09-17 23.29.23.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Определения/24/SOAP.md",
+                "file": "1. Краткая история развития ОС/Drawing 2022-09-17 23.29.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,37 +115,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Определения/24/SOAP.md"
+                "file": "1. Краткая история развития ОС/Drawing 2022-09-17 23.29.23.excalidraw.md"
               }
-            }
-          },
-          {
-            "id": "54665adf92f852a6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 460.5,
+    "width": 304.5,
     "collapsed": true
   },
   "active": "43ec3309a1970ea0",
   "lastOpenFiles": [
+    "1. Краткая история развития ОС/Первое поколение.md",
+    "электронные лампы.md",
+    "1. Краткая история развития ОС/Второе поколение.md",
+    "README.md",
+    "Определения/24/SOAP.md",
     "Определения/24/RPC.md",
     "Определения/24/RISC.md",
     "Определения/24/REST.md",
     "Определения/24/CISC.md",
-    "Определения/24/Функции API.md",
-    "Определения/24/Удобство API.md",
-    "Определения/24/Типы API.md",
-    "Определения/24/Разница CISC RISC.md",
-    "Определения/24/Причины использования API.md",
-    "Определения/24/Микроархитектура.md"
+    "Определения/24/Функции API.md"
   ]
 }
