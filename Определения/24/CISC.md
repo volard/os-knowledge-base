@@ -2,7 +2,7 @@ TARGET DECK: OS - 4 - экзамен
 START
 Basic
 
-Front: CISC
+Front: CISC архитектура
 
 Back: CISC (англ. complex instruction set computing или complex instruction set computer) — тип процессорной архитектуры, которая характеризуется следующим набором свойств:
 - нефиксированное значение длины команды;
