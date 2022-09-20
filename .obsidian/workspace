@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6e894549bc49b447",
+        "id": "5af8343f1f742dd2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. ОС для мобильных устройств/Tizen.md",
+            "file": "Определения/1,2,4,6,22,23,25,26/Linux.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. ОС для мобильных устройств/Tizen.md",
+                "file": "Определения/1,2,4,6,22,23,25,26/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. ОС для мобильных устройств/Tizen.md",
+                "file": "Определения/1,2,4,6,22,23,25,26/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. ОС для мобильных устройств/Tizen.md"
+                "file": "Определения/1,2,4,6,22,23,25,26/Linux.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6e894549bc49b447",
+  "active": "5af8343f1f742dd2",
   "lastOpenFiles": [
-    "Стандарты POSIX.md",
-    "22. Организация работы с устройствами ввода-вывода. Управление вводом выводом. Управление памятью/PnP.md",
-    "2. ОС Microsoft Windows/История Windows.md",
-    "22. Организация работы с устройствами ввода-вывода. Управление вводом выводом. Управление памятью/Файл.md",
-    "2. ОС Microsoft Windows/Widnows 2.0.png",
-    "2. ОС Microsoft Windows/Kernel.md",
-    "2. ОС Microsoft Windows/GDI.md",
-    "5. Основные понятия и состав ОС/Ядро.md",
+    "ПО.md",
+    "Определения/1,2,4,6,22,23,25,26/Linux.md",
+    "Определения/1,2,4,6,22,23,25,26/GNU.md",
+    "Определения/1,2,4,6,22,23,25,26/UNIX.md",
     "10. Ядро ОС/Ядро Linux.md",
-    "Определения/14/Pasted image 20220601010447.png"
+    "10. Ядро ОС/Ядро.md",
+    "Что происходит.excalidraw.md",
+    "Untitled.md",
+    "Определения/11, 12/Микроядро.md",
+    "5. Основные понятия и состав ОС/Ядро.md"
   ]
 }

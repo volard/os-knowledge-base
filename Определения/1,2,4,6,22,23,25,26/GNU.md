@@ -4,6 +4,6 @@ Basic
 
 Front: GNU  
 
-Back: это рекурсивное сокращение фразы “GNU's Not Unix!” (“GNU — не Unix!”).
+Back: GNU's Not Unix - #q продолжить это
 <!--ID: 1663488761286-->
 END 
