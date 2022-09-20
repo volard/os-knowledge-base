@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "323b1876e457dfb7",
+    "id": "1f021a0731a87f84",
     "type": "split",
     "children": [
       {
-        "id": "43ec3309a1970ea0",
+        "id": "6e894549bc49b447",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5. Основные понятия и состав ОС/Ядро.md",
+            "file": "3. ОС для мобильных устройств/Tizen.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "107b9660d6bad280",
+    "id": "7721bf55add8aa5b",
     "type": "split",
     "children": [
       {
-        "id": "8da04f368c127f8a",
+        "id": "9a61769d3210ab2f",
         "type": "tabs",
         "children": [
           {
-            "id": "6d9a8c99010eb31b",
+            "id": "d9c35bb4a2da5aad",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "ea860ab7951b36dd",
+            "id": "18543c671958f295",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "8dd86d262905e456",
+            "id": "fd5e5f3d6cce5863",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -61,27 +61,23 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< Updated upstream
-    "width": 337
-=======
-    "width": 397.5
->>>>>>> Stashed changes
+    "width": 387.5
   },
   "right": {
-    "id": "5a07ad26dbc621bc",
+    "id": "84ffbbfe4aed191e",
     "type": "split",
     "children": [
       {
-        "id": "2c448941c9bc0d9f",
+        "id": "deff015fff7d1bd3",
         "type": "tabs",
         "children": [
           {
-            "id": "e9871b83cc34df7c",
+            "id": "f8bbf59bfe79d809",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Основные понятия и состав ОС/Ядро.md",
+                "file": "3. ОС для мобильных устройств/Tizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,19 +89,19 @@
             }
           },
           {
-            "id": "652d66920bc475a0",
+            "id": "b665561c2ed9ac54",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Основные понятия и состав ОС/Ядро.md",
+                "file": "3. ОС для мобильных устройств/Tizen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "251ea070cb14bf82",
+            "id": "35d9f01562137e3b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -116,34 +112,33 @@
             }
           },
           {
-            "id": "bbc7476113ce3d3c",
+            "id": "c1aa88b846b5ece3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Основные понятия и состав ОС/Ядро.md"
+                "file": "3. ОС для мобильных устройств/Tizen.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
+    "width": 300,
     "collapsed": true
   },
-  "active": "43ec3309a1970ea0",
+  "active": "6e894549bc49b447",
   "lastOpenFiles": [
-    "10. Ядро ОС/Отличия ядра Windows от Linux.md",
-    "ядра](5.%20Основные%20понятия%20и%20состав%20ОС/Ядро.md) будет невозможно. Это главное, но не очевидное отличие [[Linux.md",
-    "5. Основные понятия и состав ОС/Системный вызов.md",
-    "9. Оболочки и интерфейсы ОС/интерфейс.md",
-    "Архитектура.md",
-    "Определения/24/Микроархитектура.md",
-    "10. Ядро ОС/Ядро.md",
-    "10. Ядро ОС/Вопросы.md",
-    "3. ОС для мобильных устройств/Android profiling.md",
-    "3. ОС для мобильных устройств/Android Inc..md"
+    "Стандарты POSIX.md",
+    "22. Организация работы с устройствами ввода-вывода. Управление вводом выводом. Управление памятью/PnP.md",
+    "2. ОС Microsoft Windows/История Windows.md",
+    "22. Организация работы с устройствами ввода-вывода. Управление вводом выводом. Управление памятью/Файл.md",
+    "2. ОС Microsoft Windows/Widnows 2.0.png",
+    "2. ОС Microsoft Windows/Kernel.md",
+    "2. ОС Microsoft Windows/GDI.md",
+    "5. Основные понятия и состав ОС/Ядро.md",
+    "10. Ядро ОС/Ядро Linux.md",
+    "Определения/14/Pasted image 20220601010447.png"
   ]
 }
