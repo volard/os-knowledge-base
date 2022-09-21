@@ -1,4 +1,10 @@
 # OS actual knowledge base
+Этот проект мертв изнутри, как ни крути....
+``
+``
+``
+
+---
 "Operation Systems" theory
 > I don't know exactly why I'm writing this in English to be honest.......
 
