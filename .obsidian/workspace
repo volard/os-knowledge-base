@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Определения/XML.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Определения/XML.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Определения/XML.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Определения/XML.md"
+                "file": "README.md"
               }
             }
           }
@@ -128,8 +128,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d9c35bb4a2da5aad",
+  "active": "21b550f61c122cdc",
   "lastOpenFiles": [
+    "Определения/XML.md",
     "Что происходит.excalidraw.md",
     "24. API и уровни абстракции/Уровни абстракции.md",
     "23. Виртуальные машины/Виртуальные машины с квазиэмуляцией гостевой ОС.md",
@@ -138,7 +139,6 @@
     "23. Виртуальные машины/Google drive.md",
     "23. Виртуальные машины/Виртуальная машина.md",
     "22. Организация работы с устройствами ввода-вывода. Управление вводом выводом. Управление памятью/Google drive.md",
-    "22. Организация работы с устройствами ввода-вывода. Управление вводом выводом. Управление памятью/ввод-вывод.md",
-    "16. Методы межпроцессного взаимодействия/Обо всём и ни о чём.md"
+    "22. Организация работы с устройствами ввода-вывода. Управление вводом выводом. Управление памятью/ввод-вывод.md"
   ]
 }

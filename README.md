@@ -6,8 +6,11 @@
 
 ## Folder structure
 ┌/№. Question...
+
 ├──/attachments - media files
+
 ├──/terms - definitions connected to question
+
 ├/Templates - obsidian templates
 
 ## Anki connection
