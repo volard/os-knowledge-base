@@ -1,27 +1,10 @@
-# OS actual knowledge base
-Этот проект мертв изнутри, как ни крути....
-``
-``
-``
+# Operation systems notes
+Poorly structured & Russian spoken (bruh)
 
----
-"Operation Systems" theory
-> I don't know exactly why I'm writing this in English to be honest.......
-
-### Open the repo with [Obsidian](https://obsidian.md) if u'r brave enought
-
-## Folder structure
-┌/№. Question...
-
-├──/attachments - media files
-
-├──/terms - definitions connected to question
-
-├/Templates - obsidian templates
-
-## Anki connection
-1. Configure Anki_connect plugin in your Anki vault
-2. Find and replace TARGET DECK name with yours
-
-## Tags
-#q - questions has to be resolved
+## TODO
+- [ ] Eliminate Russian
+- [ ] Eliminate anki connection templated notes
+- [ ] Remove all long reads
+- [ ] Remove stupid stuff (like "uh what's difference between mobile and desktop GUI hmmm")
+- [ ] Add new theory
+- [ ] Complete linking

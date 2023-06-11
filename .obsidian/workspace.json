@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "1f021a0731a87f84",
+    "type": "split",
+    "children": [
+      {
+        "id": "a52148d462866ec9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84a92ae50dbd29c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7721bf55add8aa5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a61769d3210ab2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9c35bb4a2da5aad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18543c671958f295",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#q",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd5e5f3d6cce5863",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "62f5ceb811f75c6a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 443.5
+  },
+  "right": {
+    "id": "84ffbbfe4aed191e",
+    "type": "split",
+    "children": [
+      {
+        "id": "deff015fff7d1bd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8bbf59bfe79d809",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b665561c2ed9ac54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "35d9f01562137e3b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1aa88b846b5ece3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+    }
+  },
+  "active": "84a92ae50dbd29c1",
+  "lastOpenFiles": [
+    "base OS components/Типы ОС.md",
+    "base OS components/Состав ОС.md",
+    "base OS components/Свойства ОС.md",
+    "base OS components/Концепции ОС.md",
+    "base OS components/Загрузка ОС.md",
+    "base OS components/Группы вспомогательных модулей ОС.md",
+    "base OS components/Вспомогательные модули ОС.md",
+    "UNIX/Особенности Unix.md",
+    "UNIX/История UNIX.md",
+    "UNIX/Влияние UNIX на эволюцию ОС.md",
+    "Windows/История Windows.md",
+    "cloud based OS/Применение облачных ОС.md",
+    "Оболочки and GUI/Untitled.md",
+    "Оболочки and GUI/SILK.md",
+    "Оболочки и интерфейсы ОС/ANDROID GUI.md",
+    "Оболочки and GUI/WIMP.md",
+    "Оболочки and GUI/Графический интерфейс.md",
+    "Оболочки and GUI/Оболочка ОС.md",
+    "Оболочки and GUI/Функции оболочки ОС.md",
+    "Оболочки и интерфейсы ОС/WINDOWS GUI.md",
+    "dispatchers/Ресурсное голодание.md",
+    "dispatchers/Планирование.md",
+    "dispatchers/Диспетчер процессов.md",
+    "dispatchers/Виды планирования.md",
+    "virtual memory/Файл(или раздел) подкачки (swap).md",
+    "Виды вычислительных ресурсов/Управление ресурсами.md",
+    "definitions/Pasted image 20220603004844.png",
+    "definitions/Pasted image 20220603004943.png",
+    "definitions/Pasted image 20220603004751.png",
+    "definitions/Pasted image 20220602143915.png",
+    "definitions/Pasted image 20220601142748.png",
+    "definitions/Pasted image 20220601010447.png",
+    "API and abstraction/Windows API.png",
+    "Виды вычислительных ресурсов/attachments/Pasted image 20220921015958.png",
+    "Виды вычислительных ресурсов/attachments/Pasted image 20220601010421.png",
+    "ОС на основе гибридных и модульных ядер/attachments/Pasted image 20220601214017.png"
+  ]
+}

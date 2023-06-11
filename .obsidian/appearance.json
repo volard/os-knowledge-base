@@ -1,5 +1,6 @@
 {
   "cssTheme": "Things",
   "enabledCssSnippets": [],
-  "theme": "system"
+  "theme": "system",
+  "accentColor": ""
 }
