@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a52148d462866ec9",
+        "id": "d7b654db364d78d5",
         "type": "tabs",
         "children": [
           {
-            "id": "84a92ae50dbd29c1",
+            "id": "19a63032ccd4cffb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 387.5
   },
   "right": {
     "id": "84ffbbfe4aed191e",
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -142,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +149,9 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "84a92ae50dbd29c1",
+  "active": "d9c35bb4a2da5aad",
   "lastOpenFiles": [
+    "README.md",
     "base OS components/Типы ОС.md",
     "base OS components/Состав ОС.md",
     "base OS components/Свойства ОС.md",
@@ -183,7 +177,6 @@
     "dispatchers/Диспетчер процессов.md",
     "dispatchers/Виды планирования.md",
     "virtual memory/Файл(или раздел) подкачки (swap).md",
-    "Виды вычислительных ресурсов/Управление ресурсами.md",
     "definitions/Pasted image 20220603004844.png",
     "definitions/Pasted image 20220603004943.png",
     "definitions/Pasted image 20220603004751.png",
