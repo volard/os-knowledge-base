@@ -11,8 +11,12 @@
             "id": "19a63032ccd4cffb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ядро ОС/Ядро Windows.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ядро ОС/Ядро Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ядро ОС/Ядро Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ядро ОС/Ядро Windows.md"
+              }
             }
           }
         ],
@@ -139,44 +147,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "d9c35bb4a2da5aad",
+  "active": "19a63032ccd4cffb",
   "lastOpenFiles": [
-    "README.md",
-    "base OS components/Типы ОС.md",
-    "base OS components/Состав ОС.md",
-    "base OS components/Свойства ОС.md",
-    "base OS components/Концепции ОС.md",
-    "base OS components/Загрузка ОС.md",
-    "base OS components/Группы вспомогательных модулей ОС.md",
-    "base OS components/Вспомогательные модули ОС.md",
-    "UNIX/Особенности Unix.md",
-    "UNIX/История UNIX.md",
-    "UNIX/Влияние UNIX на эволюцию ОС.md",
-    "Windows/История Windows.md",
-    "cloud based OS/Применение облачных ОС.md",
-    "Оболочки and GUI/Untitled.md",
-    "Оболочки and GUI/SILK.md",
-    "Оболочки и интерфейсы ОС/ANDROID GUI.md",
-    "Оболочки and GUI/WIMP.md",
-    "Оболочки and GUI/Графический интерфейс.md",
-    "Оболочки and GUI/Оболочка ОС.md",
-    "Оболочки and GUI/Функции оболочки ОС.md",
-    "Оболочки и интерфейсы ОС/WINDOWS GUI.md",
-    "dispatchers/Ресурсное голодание.md",
-    "dispatchers/Планирование.md",
-    "dispatchers/Диспетчер процессов.md",
-    "dispatchers/Виды планирования.md",
-    "virtual memory/Файл(или раздел) подкачки (swap).md",
+    "Ядро ОС/Ядро Unix.md",
+    "Ядро ОС/Ядро Linux.md",
+    "Ядро ОС/Ядро.md",
+    "Ядро ОС/Системный вызов.md",
+    "Ядро ОС/Отличия ядра Windows от Linux.md",
+    "definitions/ASLR.md",
+    "Файловые системы и структуры/Что такое ФС.md",
+    "Файловые системы и структуры/Задачи ФС.md",
+    "Файловые системы и структуры/Журналируемые ФС.md",
+    "Файловые системы и структуры/Главная загрузочная запись (master boot record - MBR).md",
+    "Файловые системы и структуры/UFS.md",
+    "Файловые системы и структуры/NTFS.md",
+    "Файловые системы и структуры/HFS.md",
+    "Файловые системы и структуры/FAT.md",
+    "Файловые системы и структуры/ext.md",
+    "Файловые системы и структуры/APFS.md",
+    "Разделение времени и многозадачность/Типы псевдопараллельной многозадачности.md",
+    "Разделение времени и многозадачность/Разделение времени.md",
+    "Разделение времени и многозадачность/Проблемные ситуации в многозадачных ОС.md",
+    "Потоки и процессы/Процесс.md",
+    "Потоки и процессы/Поток.md",
+    "Потоки и процессы/Иерархия задания, процесса, волокна.md",
+    "Потоки и процессы/Волокно.md",
+    "ОС на основе монолитных ядер/Монолитное ядро.md",
+    "ОС на основе гибридных и модульных ядер/Модульное ядро.md",
+    "ОС на основе гибридных и модульных ядер/Гибридное ядро.md",
     "definitions/Pasted image 20220603004844.png",
     "definitions/Pasted image 20220603004943.png",
     "definitions/Pasted image 20220603004751.png",
