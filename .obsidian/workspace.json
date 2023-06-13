@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ядро ОС/Ядро Windows.md",
+                "file": "concurrency and parallelism/mutex.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ядро ОС/Ядро Windows.md",
+                "file": "concurrency and parallelism/mutex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ядро ОС/Ядро Windows.md",
+                "file": "concurrency and parallelism/mutex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ядро ОС/Ядро Windows.md"
+                "file": "concurrency and parallelism/mutex.md"
               }
             }
           }
@@ -157,6 +157,17 @@
   },
   "active": "19a63032ccd4cffb",
   "lastOpenFiles": [
+    "concurrency and parallelism/threading repercussions.md",
+    "concurrency and parallelism/mutex.md",
+    "concurrency and parallelism/Questions to cover deeper here.md",
+    "concurrency and parallelism/processes and threads.md",
+    "concurrency and parallelism/Concurrency vs parallelism.md",
+    "concurrency and parallelism/Процесс.md",
+    "Ядро ОС/Ядро Windows.md",
+    "Потоки и процессы/Поток.md",
+    "Потоки и процессы/Иерархия задания, процесса, волокна.md",
+    "Потоки и процессы/Волокно.md",
+    "Потоки и процессы/Google drive.md",
     "Ядро ОС/Ядро Unix.md",
     "Ядро ОС/Ядро Linux.md",
     "Ядро ОС/Ядро.md",
@@ -172,17 +183,6 @@
     "Файловые системы и структуры/HFS.md",
     "Файловые системы и структуры/FAT.md",
     "Файловые системы и структуры/ext.md",
-    "Файловые системы и структуры/APFS.md",
-    "Разделение времени и многозадачность/Типы псевдопараллельной многозадачности.md",
-    "Разделение времени и многозадачность/Разделение времени.md",
-    "Разделение времени и многозадачность/Проблемные ситуации в многозадачных ОС.md",
-    "Потоки и процессы/Процесс.md",
-    "Потоки и процессы/Поток.md",
-    "Потоки и процессы/Иерархия задания, процесса, волокна.md",
-    "Потоки и процессы/Волокно.md",
-    "ОС на основе монолитных ядер/Монолитное ядро.md",
-    "ОС на основе гибридных и модульных ядер/Модульное ядро.md",
-    "ОС на основе гибридных и модульных ядер/Гибридное ядро.md",
     "definitions/Pasted image 20220603004844.png",
     "definitions/Pasted image 20220603004943.png",
     "definitions/Pasted image 20220603004751.png",

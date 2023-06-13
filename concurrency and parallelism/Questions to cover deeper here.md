@@ -1,0 +1,3 @@
+- time-slicing
+- virtual parallelism
+- multitasking or threading

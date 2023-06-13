@@ -1,0 +1,3 @@
+- Race conditions, where [[processes and threads|threads]] are accessing data or resources in an inconsistent order
+- Deadlocks, where two [[processes and threads|threads]] are waiting for each other, preventing both [[processes and threads|threads]] from continuing
+- Bugs that happen only in certain situations and are hard to reproduce and fix reliably
