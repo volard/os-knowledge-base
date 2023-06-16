@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d7b654db364d78d5",
+        "id": "891196bf275db9c1",
         "type": "tabs",
         "children": [
           {
-            "id": "19a63032ccd4cffb",
+            "id": "595051c3616fc0a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "concurrency and parallelism/mutex.md",
-                "mode": "source",
-                "source": false
+                "file": "linux boot process.excalidraw.md"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#q",
+                "query": "bios",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 429.5
   },
   "right": {
     "id": "84ffbbfe4aed191e",
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concurrency and parallelism/mutex.md",
+                "file": "linux boot process.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concurrency and parallelism/mutex.md",
+                "file": "linux boot process.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concurrency and parallelism/mutex.md"
+                "file": "linux boot process.excalidraw.md"
               }
             }
           }
@@ -155,43 +153,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19a63032ccd4cffb",
+  "active": "595051c3616fc0a8",
   "lastOpenFiles": [
-    "concurrency and parallelism/threading repercussions.md",
-    "concurrency and parallelism/mutex.md",
-    "concurrency and parallelism/Questions to cover deeper here.md",
-    "concurrency and parallelism/processes and threads.md",
-    "concurrency and parallelism/Concurrency vs parallelism.md",
-    "concurrency and parallelism/Процесс.md",
-    "Ядро ОС/Ядро Windows.md",
-    "Потоки и процессы/Поток.md",
-    "Потоки и процессы/Иерархия задания, процесса, волокна.md",
-    "Потоки и процессы/Волокно.md",
-    "Потоки и процессы/Google drive.md",
-    "Ядро ОС/Ядро Unix.md",
-    "Ядро ОС/Ядро Linux.md",
-    "Ядро ОС/Ядро.md",
-    "Ядро ОС/Системный вызов.md",
-    "Ядро ОС/Отличия ядра Windows от Linux.md",
-    "definitions/ASLR.md",
-    "Файловые системы и структуры/Что такое ФС.md",
-    "Файловые системы и структуры/Задачи ФС.md",
-    "Файловые системы и структуры/Журналируемые ФС.md",
-    "Файловые системы и структуры/Главная загрузочная запись (master boot record - MBR).md",
-    "Файловые системы и структуры/UFS.md",
-    "Файловые системы и структуры/NTFS.md",
-    "Файловые системы и структуры/HFS.md",
-    "Файловые системы и структуры/FAT.md",
-    "Файловые системы и структуры/ext.md",
-    "definitions/Pasted image 20220603004844.png",
-    "definitions/Pasted image 20220603004943.png",
-    "definitions/Pasted image 20220603004751.png",
-    "definitions/Pasted image 20220602143915.png",
-    "definitions/Pasted image 20220601142748.png",
-    "definitions/Pasted image 20220601010447.png",
-    "API and abstraction/Windows API.png",
+    "README.md",
+    "Основные функции ОС.md",
+    "UNIX/attachments/Pasted image 20220920131355.png",
+    "UNIX/Особенности Unix.md",
+    "UNIX/История UNIX.md",
+    "UNIX/Влияние UNIX на эволюцию ОС.md",
+    "linux boot process.excalidraw.md",
+    "Вычислительные ресурсы/Управление ресурсами.md",
+    "Вычислительные ресурсы/Ресурс.md",
+    "virtual machine/ВМ.md",
+    "virtual machine/Виртуальные машины с полной эмуляцией гостевой ОС.md",
+    "virtual machine/Google drive.md",
+    "virtual machine/Виртуальная машина.md",
+    "definitions/BIOS.md",
     "Виды вычислительных ресурсов/attachments/Pasted image 20220921015958.png",
     "Виды вычислительных ресурсов/attachments/Pasted image 20220601010421.png",
-    "ОС на основе гибридных и модульных ядер/attachments/Pasted image 20220601214017.png"
+    "Виды вычислительных ресурсов/ОС пакетной обработки.md",
+    "Виды вычислительных ресурсов/ОС разделения времени.md",
+    "IPC and stuff/Обо всём и ни о чём.md",
+    "IPC and stuff/Команды для работы с процессами.md",
+    "IPC and stuff/Google drive.md",
+    "IPC and stuff/IPC.md",
+    "Защита ОС/BitLocker To Go.md",
+    "virtual machine/Виртуальные машины с квазиэмуляцией гостевой ОС.md",
+    "general OS history/Четвертое поколение.md",
+    "general OS history/Третье поколение.md",
+    "general OS history/Пятое поколение.md",
+    "general OS history/Первое поколение.md",
+    "general OS history/История Windows.md",
+    "linux boot process.excalidraw.png",
+    "linux boot process.excalidraw.excalidraw",
+    "Excalidraw",
+    "API and abstraction/Windows API.png",
+    "media-export/Drawing 2023-06-16 13.55.47.excalidraw.excalidraw",
+    "general OS history/media/Widnows 2.0.png",
+    "definitions/Pasted image 20220603004943.png",
+    "definitions/Pasted image 20220603004844.png",
+    "definitions/Pasted image 20220603004751.png",
+    "definitions/Pasted image 20220602143915.png",
+    "Drawing 2023-06-16 13.55.47.excalidraw.excalidraw",
+    "media-export",
+    "New folder",
+    "Untitled.canvas"
   ]
 }

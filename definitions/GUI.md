@@ -1,9 +1,3 @@
-TARGET DECK: OS - 4 - экзамен
-START
-Basic
+# GUI
 
-Front: GUI
-
-Back: Graphical user interface
-<!--ID: 1663653688340-->
-END
+Graphical user interface

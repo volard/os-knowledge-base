@@ -1,0 +1,1 @@
+aka *RTOS* that are being used for [[real-time computing]] tasks

@@ -23,5 +23,13 @@
       ],
       "key": "O"
     }
+  ],
+  "obsidian-regex-replace:obsidian-regex-replace": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": ","
+    }
   ]
 }
