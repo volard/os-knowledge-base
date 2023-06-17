@@ -1,3 +1,3 @@
 # GNU  
 
-GNU's Not Unix - #q продолжить это
+GNU's Not Unix

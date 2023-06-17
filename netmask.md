@@ -1,0 +1,1 @@
+The non-unique number that defines the network itself. This number can be automatically generated but is sometimes requested by the method you use to configure the interface. It, too, has the format xxx.xxx.xxx.xxx. 

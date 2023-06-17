@@ -1,0 +1,1 @@
+a small program that loads the [[ОС|OS]]

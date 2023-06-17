@@ -1,3 +1,0 @@
-# GUI
-
-Graphical user interface

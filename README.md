@@ -1,5 +1,6 @@
 # Operation systems notes
-Poorly structured & Russian spoken (bruh)
+Poorly organized & Russian spoken (bruh).
+Folders presented for historical reasons and simple convenience, but in general using file-picking from side panel is not the best navigation approach.
 
 ## TODO
 - [ ] Eliminate Russian
