@@ -1,0 +1,1 @@
+application (program, software) compiled for specific architecture

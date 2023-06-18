@@ -1,5 +1,5 @@
 ---
-aliases: IP addresses
+aliases: IP addresses, network addresses
 ---
 
 The unique number defining the access point to your network interface. It has the form: xxx.xxx.xxx.xxx, where “xxx” are three, or fewer, numbers between 0 and 255.

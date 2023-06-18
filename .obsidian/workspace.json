@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7d6d2feb2de904f6",
+        "id": "3ef6cae83e35ea75",
         "type": "tabs",
         "children": [
           {
-            "id": "c795806753edc23e",
+            "id": "a0eb05bd47ff920b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DNS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IPsec",
+                "query": "нативное",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DNS.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -163,48 +155,48 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "c795806753edc23e",
+  "active": "a0eb05bd47ff920b",
   "lastOpenFiles": [
-    "Domain Name Server.md",
-    "DNS.md",
     "WAN.md",
-    "Domain namespace.md",
-    "Authoritative Name Servers.md",
-    "DNS zone.md",
-    "Caching Name Servers.md",
-    "TTL.md",
-    "Excalidraw/domain namespace.excalidraw.excalidraw",
-    "definitions/MAC.md",
-    "Excalidraw/domain namespace.excalidraw.md",
-    "Partition tolerance.md",
-    "FQDN.md",
-    "Excalidraw/domain namespace.excalidraw.png",
-    "Excalidraw",
+    "widget toolkit.md",
+    "Основные функции ОС.md",
+    "window manager.md",
+    "CAM.md",
     "CAP theorem.md",
-    "file descriptor.md",
+    "crontab.md",
+    "DHCP.md",
+    "DDoS.md",
+    "AH.md",
+    "definitions/Разница CISC RISC.md",
     "concurrency and parallelism/Типы псевдопараллельной многозадачности.md",
-    "concurrency and parallelism/Разделение времени.md",
-    "concurrency and parallelism/Проблемные ситуации в многозадачных ОС.md",
-    "virtual memory/Сжатие данных в ОП (ZRam).md",
-    "virtual memory/Виртуальная память.md",
-    "virtual memory/swapping.md",
-    "virtual memory/paging.md",
-    "virtual memory/paged memory.md",
-    "virtual machine/ВМ.md",
-    "virtual machine/Виртуальные машины с квазиэмуляцией гостевой ОС.md",
-    "virtual machine/Виртуальные машины с полной эмуляцией гостевой ОС.md",
-    "network switch.md",
-    "UNIX/attachments/Pasted image 20220920131355.png",
-    "templates",
-    "linux boot process.excalidraw.excalidraw",
-    "linux boot process.excalidraw.png",
-    "definitions/Pasted image 20220603004943.png",
+    "definitions/Android profiling.md",
+    "definitions/AAB для Android.md",
+    "definitions/Android RunTime.md",
+    "definitions/APT.md",
+    "definitions/ASLR.md",
+    "definitions/BIOS.md",
+    "definitions/BitLocker.md",
+    "definitions/Bochs.md",
+    "definitions/Boot to Gecko (B2G).md",
+    "definitions/Chrome OS.md",
+    "definitions/CISC.md",
+    "definitions/daemon.md",
+    "definitions/IEEE.md",
+    "definitions/ICMP.md",
+    "definitions/Pasted image 20220601142748.png",
     "definitions/Pasted image 20220603004844.png",
     "definitions/Pasted image 20220603004751.png",
     "definitions/Pasted image 20220602143915.png",
-    "definitions/Pasted image 20220601142748.png",
-    "definitions/Pasted image 20220601143203.png",
-    "file systems/attachments/Типы файлов в linux.png",
+    "kernel/attachments/Pasted image 20220601214017.png",
+    "IPS/attachments/Pasted image 20220921081110.png",
+    "Excalidraw/linux boot process.excalidraw.excalidraw",
+    "Excalidraw/domain namespace.excalidraw.excalidraw",
+    "Excalidraw/domain namespace.excalidraw.png",
+    "Excalidraw",
+    "UNIX/attachments/Pasted image 20220920131355.png",
+    "templates",
+    "Excalidraw/linux boot process.excalidraw.png",
+    "definitions/Pasted image 20220603004943.png",
     "CLI/windows",
     "CLI/unix-linux",
     "CLI",

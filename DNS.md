@@ -4,7 +4,7 @@ aliases: DNS resolver, resolution request
 sources: 
 ---
 
-> Domain name system
+> [[Domain]] name system
 
 An essential process for the Internet; it matches human-readable domain names to machine-readable [[IP address|IP addresses]], enabling users to load websites and applications without memorizing a bunch of numbers.
 

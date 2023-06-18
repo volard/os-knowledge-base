@@ -1,6 +1,9 @@
 ---
 sources: https://www.baeldung.com/linux/boot-process
 ---
+
+![[linux boot process.excalidraw.png]]
+
 # 1 [[BIOS]] / [[UEFI]]
 Here performed [[POST]] check
 
