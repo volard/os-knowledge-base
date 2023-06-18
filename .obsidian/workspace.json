@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79bfd0852fa9c651",
+            "id": "c795806753edc23e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "definitions/router.md",
+                "file": "DNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "IPsec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 266.5
   },
   "right": {
     "id": "84ffbbfe4aed191e",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "definitions/router.md",
+                "file": "DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "definitions/router.md",
+                "file": "DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "definitions/router.md"
+                "file": "DNS.md"
               }
             }
           }
@@ -163,34 +163,41 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "79bfd0852fa9c651",
+  "active": "c795806753edc23e",
   "lastOpenFiles": [
-    "definitions/IP address.md",
-    "definitions/router.md",
-    "DHCP.md",
-    "linux task sheduling.md",
-    "definitions/loopback.md",
-    "netmask.md",
-    "definitions/POST.md",
-    "definitions/IP.md",
-    "definitions/ICMP.md",
-    "definitions/daemon.md",
-    "definitions/Virtual PC.md",
-    "definitions/User.md",
-    "definitions/UNIX.md",
-    "definitions/UML.md",
-    "definitions/UEFI.md",
-    "definitions/UAC.md",
-    "definitions/TrueTypeFont.md",
-    "definitions/SOAP.md",
-    "definitions/SVISTA.md",
-    "definitions/SILK.md",
-    "definitions/RISC.md",
-    "definitions/RPC.md",
-    "definitions/REST.md",
-    "definitions/real-type os.md",
-    "definitions/real-time computing.md",
-    "definitions/Qemu.md",
+    "Domain Name Server.md",
+    "DNS.md",
+    "WAN.md",
+    "Domain namespace.md",
+    "Authoritative Name Servers.md",
+    "DNS zone.md",
+    "Caching Name Servers.md",
+    "TTL.md",
+    "Excalidraw/domain namespace.excalidraw.excalidraw",
+    "definitions/MAC.md",
+    "Excalidraw/domain namespace.excalidraw.md",
+    "Partition tolerance.md",
+    "FQDN.md",
+    "Excalidraw/domain namespace.excalidraw.png",
+    "Excalidraw",
+    "CAP theorem.md",
+    "file descriptor.md",
+    "concurrency and parallelism/Типы псевдопараллельной многозадачности.md",
+    "concurrency and parallelism/Разделение времени.md",
+    "concurrency and parallelism/Проблемные ситуации в многозадачных ОС.md",
+    "virtual memory/Сжатие данных в ОП (ZRam).md",
+    "virtual memory/Виртуальная память.md",
+    "virtual memory/swapping.md",
+    "virtual memory/paging.md",
+    "virtual memory/paged memory.md",
+    "virtual machine/ВМ.md",
+    "virtual machine/Виртуальные машины с квазиэмуляцией гостевой ОС.md",
+    "virtual machine/Виртуальные машины с полной эмуляцией гостевой ОС.md",
+    "network switch.md",
+    "UNIX/attachments/Pasted image 20220920131355.png",
+    "templates",
+    "linux boot process.excalidraw.excalidraw",
+    "linux boot process.excalidraw.png",
     "definitions/Pasted image 20220603004943.png",
     "definitions/Pasted image 20220603004844.png",
     "definitions/Pasted image 20220603004751.png",
@@ -198,18 +205,12 @@
     "definitions/Pasted image 20220601142748.png",
     "definitions/Pasted image 20220601143203.png",
     "file systems/attachments/Типы файлов в linux.png",
-    "GNU-Linux-systemd/Linux FS.png",
-    "linux boot process.excalidraw.excalidraw",
-    "linux boot process.excalidraw.png",
     "CLI/windows",
     "CLI/unix-linux",
     "CLI",
-    "UNIX/attachments/Pasted image 20220920131355.png",
-    "Excalidraw",
     "media-export/Drawing 2023-06-16 13.55.47.excalidraw.excalidraw",
     "Drawing 2023-06-16 13.55.47.excalidraw.excalidraw",
     "media-export",
-    "New folder",
     "Untitled.canvas"
   ]
 }

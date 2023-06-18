@@ -9,3 +9,7 @@ Here performed [[POST]] check
 [[GRUB2]] one of the most popular ones
 
 # 3 Kernel
+
+
+# 4 Parent process
+Usually SystemD but it's just an option

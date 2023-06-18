@@ -1,5 +1,6 @@
 ---
 tags: definition
+alias: VPNs
 source: https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols
 ---
 

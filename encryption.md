@@ -1,0 +1,1 @@
+the process of concealing information by mathematically altering data so that it appears random

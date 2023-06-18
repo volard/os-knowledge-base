@@ -8,13 +8,13 @@ tags: [excalidraw]
 
 
 # Text Elements
-BIOS / UEFI ^UcuWo4LH
+%%***>>>text element-link:[[UEFI]]<<<***%%/ UEFI ^UcuWo4LH
 
 initials hw access ^wI5gzyGz
 
-POST ^QyHXmlgx
+%%***>>>text element-link:[[POST]]<<<***%%POST ^QyHXmlgx
 
-Boot loader ^4QUnwCDS
+%%***>>>text element-link:[[Boot loader]]<<<***%%Boot loader ^4QUnwCDS
 
 selects boot device ^KYCUa0E1
 
@@ -38,13 +38,15 @@ Parent process (SystemD) ^jm1Suazl
 
 probe remaining hardware ^jcz35o1t
 
-mount filesystems ^E8lAhazm
+%%***>>>text element-link:[[file system]]<<<***%%mount filesystems ^E8lAhazm
 
 initiate / terminate services ^qBvkjBMj
 
 manage system processes ^SrtnNkI8
 
-run a desktop environment ^MyCeATjP
+%%***>>>text element-link:[[GUI]]<<<***%%run a desktop environment ^MyCeATjP
+
+%%***>>>text element-link:[[BIOS]]<<<***%%BIOS ^Ad4kPmr6
 
 %%
 # Drawing
@@ -56,8 +58,8 @@ run a desktop environment ^MyCeATjP
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 118,
-			"versionNonce": 29611810,
+			"version": 120,
+			"versionNonce": 1663677676,
 			"isDeleted": false,
 			"id": "IkHPwZTKmKtJ7mwoJf9mq",
 			"fillStyle": "hachure",
@@ -66,7 +68,7 @@ run a desktop environment ^MyCeATjP
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -354.6582000814189,
+			"x": -353.5470889703077,
 			"y": -448.37976302136116,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -83,14 +85,14 @@ run a desktop environment ^MyCeATjP
 					"type": "arrow"
 				}
 			],
-			"updated": 1686921468125,
-			"link": null,
+			"updated": 1687023767808,
+			"link": "",
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 86,
-			"versionNonce": 1891169342,
+			"version": 161,
+			"versionNonce": 473277524,
 			"isDeleted": false,
 			"id": "UcuWo4LH",
 			"fillStyle": "hachure",
@@ -99,27 +101,27 @@ run a desktop environment ^MyCeATjP
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -306.65121795533247,
+			"x": -237.76232906644367,
 			"y": -484.68703887446145,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 132.25994873046875,
+			"width": 70.13998413085938,
 			"height": 25,
 			"seed": 1639397456,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1686921468126,
-			"link": null,
+			"updated": 1687023822623,
+			"link": "[[UEFI]]",
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "BIOS / UEFI",
-			"rawText": "BIOS / UEFI",
+			"text": "/ UEFI",
+			"rawText": "/ UEFI",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "BIOS / UEFI",
+			"originalText": "/ UEFI",
 			"lineHeight": 1.25,
 			"baseline": 18
 		},
@@ -162,8 +164,8 @@ run a desktop environment ^MyCeATjP
 		},
 		{
 			"type": "arrow",
-			"version": 241,
-			"versionNonce": 1530962658,
+			"version": 243,
+			"versionNonce": 1660037484,
 			"isDeleted": false,
 			"id": "E9Ap1RO3TJvXmOvExAVii",
 			"fillStyle": "hachure",
@@ -172,11 +174,11 @@ run a desktop environment ^MyCeATjP
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -114.43247169247728,
+			"x": -113.3213605813661,
 			"y": -350.6310341982305,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 65.00676237879843,
+			"width": 63.89565126768724,
 			"height": 0,
 			"seed": 120324898,
 			"groupIds": [],
@@ -184,7 +186,7 @@ run a desktop environment ^MyCeATjP
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1686921468126,
+			"updated": 1687023531796,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -206,7 +208,7 @@ run a desktop environment ^MyCeATjP
 					0
 				],
 				[
-					65.00676237879843,
+					63.89565126768724,
 					0
 				]
 			]
@@ -249,8 +251,8 @@ run a desktop environment ^MyCeATjP
 		},
 		{
 			"type": "text",
-			"version": 112,
-			"versionNonce": 2018229374,
+			"version": 128,
+			"versionNonce": 1935084780,
 			"isDeleted": false,
 			"id": "QyHXmlgx",
 			"fillStyle": "hachure",
@@ -269,8 +271,8 @@ run a desktop environment ^MyCeATjP
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1686921468126,
-			"link": null,
+			"updated": 1687023736916,
+			"link": "[[POST]]",
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
@@ -285,8 +287,8 @@ run a desktop environment ^MyCeATjP
 		},
 		{
 			"type": "text",
-			"version": 131,
-			"versionNonce": 185065762,
+			"version": 164,
+			"versionNonce": 764871148,
 			"isDeleted": false,
 			"id": "4QUnwCDS",
 			"fillStyle": "hachure",
@@ -295,8 +297,8 @@ run a desktop environment ^MyCeATjP
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 51.50936920514184,
-			"y": -484.68703887446145,
+			"x": 24.842702538475095,
+			"y": -481.35370554112814,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
 			"width": 118.59989929199219,
@@ -305,8 +307,8 @@ run a desktop environment ^MyCeATjP
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1686919461657,
-			"link": null,
+			"updated": 1687023844008,
+			"link": "[[Boot loader]]",
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
@@ -589,8 +591,8 @@ run a desktop environment ^MyCeATjP
 		},
 		{
 			"type": "text",
-			"version": 101,
-			"versionNonce": 1047413438,
+			"version": 110,
+			"versionNonce": 947022420,
 			"isDeleted": false,
 			"id": "GLj5OtzD",
 			"fillStyle": "hachure",
@@ -599,8 +601,8 @@ run a desktop environment ^MyCeATjP
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 323.0064172200272,
-			"y": -413.2645687827799,
+			"x": 322.35718829200357,
+			"y": -417.8091712789451,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 252.83975219726562,
@@ -609,7 +611,7 @@ run a desktop environment ^MyCeATjP
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1686921470980,
+			"updated": 1687023334821,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -889,8 +891,8 @@ run a desktop environment ^MyCeATjP
 		},
 		{
 			"type": "text",
-			"version": 123,
-			"versionNonce": 1033430462,
+			"version": 141,
+			"versionNonce": 309429844,
 			"isDeleted": false,
 			"id": "E8lAhazm",
 			"fillStyle": "hachure",
@@ -909,8 +911,8 @@ run a desktop environment ^MyCeATjP
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1686921472684,
-			"link": null,
+			"updated": 1687023703782,
+			"link": "[[file system]]",
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
@@ -997,8 +999,8 @@ run a desktop environment ^MyCeATjP
 		},
 		{
 			"type": "text",
-			"version": 123,
-			"versionNonce": 220981474,
+			"version": 133,
+			"versionNonce": 1278824788,
 			"isDeleted": false,
 			"id": "MyCeATjP",
 			"fillStyle": "hachure",
@@ -1017,8 +1019,8 @@ run a desktop environment ^MyCeATjP
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1686921472684,
-			"link": null,
+			"updated": 1687023476218,
+			"link": "[[GUI]]",
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
@@ -1030,12 +1032,48 @@ run a desktop environment ^MyCeATjP
 			"originalText": "run a desktop environment",
 			"lineHeight": 1.25,
 			"baseline": 18
+		},
+		{
+			"type": "text",
+			"version": 85,
+			"versionNonce": 1027167084,
+			"isDeleted": false,
+			"id": "Ad4kPmr6",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -309.1322078670244,
+			"y": -484.9416142030815,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 52.119964599609375,
+			"height": 25,
+			"seed": 1869209452,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1687023821705,
+			"link": "[[BIOS]]",
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "BIOS",
+			"rawText": "BIOS",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "BIOS",
+			"lineHeight": 1.25,
+			"baseline": 18
 		}
 	],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#1971c2",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
@@ -1047,10 +1085,10 @@ run a desktop environment ^MyCeATjP
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 837.5127395929123,
-		"scrollY": 921.3125204598157,
+		"scrollX": 385.7988745336911,
+		"scrollY": 937.7020308697483,
 		"zoom": {
-			"value": 0.799090264973502
+			"value": 0.9
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
