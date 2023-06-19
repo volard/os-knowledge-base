@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3ef6cae83e35ea75",
+        "id": "90e3dc875e086f86",
         "type": "tabs",
         "children": [
           {
-            "id": "a0eb05bd47ff920b",
+            "id": "1dc342806241a760",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "hypervisor.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "hypervisor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "hypervisor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +131,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -134,16 +140,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "hypervisor.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 260.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,39 +161,40 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "a0eb05bd47ff920b",
+  "active": "1dc342806241a760",
   "lastOpenFiles": [
-    "WAN.md",
-    "widget toolkit.md",
-    "Основные функции ОС.md",
-    "window manager.md",
-    "CAM.md",
-    "CAP theorem.md",
-    "crontab.md",
-    "DHCP.md",
-    "DDoS.md",
-    "AH.md",
-    "definitions/Разница CISC RISC.md",
-    "concurrency and parallelism/Типы псевдопараллельной многозадачности.md",
-    "definitions/Android profiling.md",
-    "definitions/AAB для Android.md",
-    "definitions/Android RunTime.md",
-    "definitions/APT.md",
-    "definitions/ASLR.md",
-    "definitions/BIOS.md",
-    "definitions/BitLocker.md",
-    "definitions/Bochs.md",
-    "definitions/Boot to Gecko (B2G).md",
-    "definitions/Chrome OS.md",
-    "definitions/CISC.md",
-    "definitions/daemon.md",
-    "definitions/IEEE.md",
-    "definitions/ICMP.md",
+    "emulator.md",
+    "hypervisor.md",
+    "virtualization.md",
+    "definitions/driver.md",
+    "Circuit driver.md",
+    "Software driver.md",
+    "API.md",
+    "Device driver.md",
+    "CUPS.md",
+    "IPP.md",
+    "port.md",
+    "print server.md",
+    "SPOOL.md",
+    "Windows.md",
+    "definitions/POSIX.md",
+    "Hyper-V.md",
+    "file systems/APFS.md",
+    "README.md",
+    "file systems/Журналируемые ФС.md",
+    "definitions/ОС.md",
+    "KVM.md",
+    "Containerization.md",
+    "Intel VT.md",
+    "VMX.md",
+    "Protection ring.md",
+    "gate.md",
+    "kernel/attachments/Pasted image 20220601214017.png",
+    "GNU-Linux-systemd/Linux FS.png",
     "definitions/Pasted image 20220601142748.png",
     "definitions/Pasted image 20220603004844.png",
     "definitions/Pasted image 20220603004751.png",
     "definitions/Pasted image 20220602143915.png",
-    "kernel/attachments/Pasted image 20220601214017.png",
     "IPS/attachments/Pasted image 20220921081110.png",
     "Excalidraw/linux boot process.excalidraw.excalidraw",
     "Excalidraw/domain namespace.excalidraw.excalidraw",
@@ -196,7 +203,6 @@
     "UNIX/attachments/Pasted image 20220920131355.png",
     "templates",
     "Excalidraw/linux boot process.excalidraw.png",
-    "definitions/Pasted image 20220603004943.png",
     "CLI/windows",
     "CLI/unix-linux",
     "CLI",

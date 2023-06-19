@@ -1,1 +1,1 @@
-package manager [[Arch Linux]]. Pacman был разработан создателем [[Arch Linux]] Джаддом Винетом.
+**pac**kage **man**ager for [[Arch Linux]]

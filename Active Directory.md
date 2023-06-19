@@ -1,13 +1,12 @@
 ---
 tags: definition
 aliases: 
-sources: https://www.techtarget.com/whatis/definition/domain
+sources: https://www.cyberark.com/what-is/active-directory/
 ---
+Implementation of [[Directory service|directory service]] designed by Microsoft for Windows domain networks, but it also contains some other stuff for example identity management service
 
-A common [[Domain|network domain]] designed by Microsoft for Windows domain networks
-
-Stores info about objects and users on the network and provides a logical (not for me), hierarchical view of the directory information, making it easy for administrators and users to navigate the domain and find resources.
-
-Typically includes one or more domain controllers for managing resources and users across the network
+aka `AD` for short
 
 Uses [[LDAP]]
+
+AD is not easily extended to the cloud-first era of IT where apps and users often reside outside the enterprise network, so users in nowadays usually access a variety of SaaS, [[IaaS]] things

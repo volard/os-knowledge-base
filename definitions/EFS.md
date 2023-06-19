@@ -1,4 +1,4 @@
-# Encrypting File System (EFS)  
+> Encrypting File System
 
 система шифрования данных, реализующая шифрование на уровне файлов в операционных системах Microsoft [[Windows NT]] (начиная с Windows 2000 и выше), 
 

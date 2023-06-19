@@ -1,0 +1,8 @@
+- Users
+	- Username
+	- Password
+	- Preferences
+	- Permissions
+- Groups
+- Information about devices
+- And more

@@ -13,7 +13,7 @@ Ports allow computers to differentiate between different kinds of traffic: email
 Each port identified by a unique number.
 There are 65,535 possible port numbers
 
-Some of them reserved for certain protocols (e.g. all HTTP goes to 80)
+Some of them reserved for certain protocols (e.g. all [[HTTP]] goes to 80)
 
 Ports | Used by 
 ---------- | -------
@@ -26,5 +26,8 @@ Ports | Used by
 **179** |[[BGP]]
 **443** |[[HTTPS]]
 **500**|[[ISAKMP]]
-**587** |SMTP with encryption.
+**587** |SMTP with encryption
+631 | [[TCP]], [[UDP]]
 **3389** |[[RDP]]
+
+[A huge fucking list of other well-known ports](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports) 

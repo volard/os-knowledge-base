@@ -1,0 +1,1 @@
+A program, running in supervisor mode, that acts as a program loader and [[supervisor]] for the small utility programs making up the rest of the system

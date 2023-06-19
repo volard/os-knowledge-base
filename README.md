@@ -6,6 +6,12 @@ Folders presented for historical reasons and simple convenience, but in general 
 - [ ] Eliminate Russian
 - [x] Eliminate anki connection templated notes
 - [ ] Remove all long reads
-- [ ] Remove stupid stuff (like "uh what's difference between mobile and desktop GUI hmmm")
+- [x] Remove stupid stuff (like "uh what's difference between mobile and desktop GUI hmmm")
 - [ ] Add new theory
+	- [ ] virtualization
+	- [ ] containerization
+	- [ ] active directory deeper
+	- [ ] clusterization
+	- [ ] setup / deploy / OS (server OS)
+	- [ ] security
 - [ ] Complete linking

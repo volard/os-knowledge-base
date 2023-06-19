@@ -1,0 +1,1 @@
+A circuit or component used to control another circuit or component
