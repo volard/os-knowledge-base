@@ -1,4 +1,4 @@
-a standard protocol for connecting devices in [[LAN]]
+A standard protocol for connecting devices in [[LAN]]
 
 # Components
 - [[network interface|NIC]]

@@ -1,0 +1,1 @@
+`NT` was formerly expanded to `New Technology` but no longer carries any specific meaning. Starting with Windows 2000, `NT` was removed from the product name and is only included in the product version string along with several low-level places within the system.

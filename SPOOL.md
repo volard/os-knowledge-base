@@ -1,6 +1,6 @@
 ---
 tags: definition
-aliases: pringing spooler
+aliases: printing spooler
 sources: https://www.geeksforgeeks.org/what-exactly-spooling-is-all-about/
 ---
 

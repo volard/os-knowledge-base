@@ -38,7 +38,7 @@ Parent process (SystemD) ^jm1Suazl
 
 probe remaining hardware ^jcz35o1t
 
-%%***>>>text element-link:[[file system]]<<<***%%mount filesystems ^E8lAhazm
+%%***>>>text element-link:[[filesystem]]<<<***%%mount filesystems ^E8lAhazm
 
 initiate / terminate services ^qBvkjBMj
 

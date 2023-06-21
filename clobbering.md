@@ -1,0 +1,1 @@
+**clobbering** a file, processor register or a region of computer memory is the process of overwriting its contents completely, whether intentionally or unintentionally, or to indicate that such an action will likely occur.

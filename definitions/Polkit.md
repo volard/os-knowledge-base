@@ -1,5 +1,11 @@
+---
+tags: definition
+aliases: PolicyKit
+sources: https://gitlab.freedesktop.org/polkit/polkit/, https://polkit.pages.freedesktop.org/polkit/
+---
+
 > Polkit  (previously PolicyKit)
 
-библиотека для [[UNIX]]-подобных OS. 
-[[API]] библиотеки используется для предоставления непривилегированным процессам возможности выполнения действий, требующих прав администратора. 
-Использование Polkit противопоставляется использованию таких систем, как sudo, но не наделяет процесс пользователя правами администратора, а позволяет точно контролировать, что разрешено, а что запрещено.
+toolkit for defining and handling authorizations. It is used for allowing unprivileged processes to speak to privileged processes.
+
+Provides an authorization API intended to be used by privileged programs (“MECHANISMS”) offering service to unprivileged programs (“CLIENTS”).

@@ -8,8 +8,17 @@ sources: https://github.com/OpenPrinting/cups, https://openprinting.github.io/cu
 
 Standards-based, open source modular printing system for Unix-like OS which allows a computer to act as a [[print server]]
 
+# Installation
+
+For example, using [[APT]]
+```bash
+sudo apt-get update && sudo apt-get install cups cups-client lpr
+```
+
+To use CUPS its required to have `lpadmin` group's permissions
+
 # Consists
-- [[SPOOL|pringing spooler]]
+- [[SPOOL|printing spooler]]
 - Printing scheduler
 - Backend system that sends this data to the print device
 

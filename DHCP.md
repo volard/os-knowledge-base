@@ -1,3 +1,9 @@
+---
+tags: definition
+aliases: Dynamic Host Control Protocol, DHCP
+sources: 
+---
+
 > Dynamic Host Control Protocol
 
 Computers on internal networks have their own IP addresses assigned to them (usually by the [[router]]). That way, all the nodes on the internal network can communicate. 

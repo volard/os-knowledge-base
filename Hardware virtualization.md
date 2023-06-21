@@ -1,0 +1,4 @@
+Different types of hardware virtualization include:
+
+- [Full virtualization](https://en.wikipedia.org/wiki/Full_virtualization "Full virtualization") – Almost complete simulation of the actual hardware to allow software environments, including a guest operating system and its apps, to run unmodified.
+- [Paravirtualization](https://en.wikipedia.org/wiki/Paravirtualization "Paravirtualization") – The guest apps are executed in their own isolated domains, as if they are running on a separate system, but a hardware environment is not simulated. Guest programs need to be specifically modified to run in this environment.

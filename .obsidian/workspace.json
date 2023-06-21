@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "90e3dc875e086f86",
+        "id": "00dadaf88b0181b7",
         "type": "tabs",
         "children": [
           {
-            "id": "1dc342806241a760",
+            "id": "2c17c9949d6cb323",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "hypervisor.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/API in a nutshell.png"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "нативное",
+                "query": "combabi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hypervisor.md",
+                "file": "assets/API in a nutshell.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hypervisor.md",
+                "file": "assets/API in a nutshell.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hypervisor.md"
+                "file": "assets/API in a nutshell.png"
               }
             }
           }
@@ -161,54 +159,54 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "1dc342806241a760",
+  "active": "d9c35bb4a2da5aad",
   "lastOpenFiles": [
-    "emulator.md",
-    "hypervisor.md",
-    "virtualization.md",
-    "definitions/driver.md",
-    "Circuit driver.md",
-    "Software driver.md",
-    "API.md",
-    "Device driver.md",
-    "CUPS.md",
-    "IPP.md",
-    "port.md",
-    "print server.md",
-    "SPOOL.md",
-    "Windows.md",
-    "definitions/POSIX.md",
-    "Hyper-V.md",
-    "file systems/APFS.md",
     "README.md",
-    "file systems/Журналируемые ФС.md",
-    "definitions/ОС.md",
-    "KVM.md",
-    "Containerization.md",
-    "Intel VT.md",
-    "VMX.md",
-    "Protection ring.md",
-    "gate.md",
-    "kernel/attachments/Pasted image 20220601214017.png",
-    "GNU-Linux-systemd/Linux FS.png",
+    "definitions/IRC.md",
+    "definitions/IP address.md",
+    "definitions/IP.md",
+    "definitions/IOCP.md",
+    "definitions/IEEE.md",
+    "definitions/ICMP.md",
+    "definitions/GNU.md",
+    "definitions/Gecko.md",
+    "definitions/GDI.md",
+    "definitions/gateway.md",
+    "definitions/EFS.md",
+    "definitions/FMS.md",
+    "definitions/driver.md",
+    "definitions/DOSEMU.md",
+    "definitions/DOS.md",
+    "definitions/Deb.md",
+    "definitions/Dalvik.md",
+    "definitions/daemon.md",
+    "definitions/CISC.md",
+    "definitions/Chrome OS.md",
+    "definitions/Boot to Gecko (B2G).md",
+    "definitions/Bochs.md",
+    "definitions/BitLocker.md",
+    "definitions/BIOS.md",
+    "definitions/ASLR.md",
+    "assets/Linux FS.png",
+    "assets/WOL in a nutshell.png",
+    "assets",
+    "IO/Типы прерываний.png",
+    "mess/Pasted image 20220601214017.png",
+    "file systems/attachments/Типы файлов в linux.png",
+    "Excalidraw/fork with exec illustratedexcalidraw.excalidraw",
+    "Excalidraw/COW illustrated.excalidraw.excalidraw",
+    "Excalidraw/COW illustrated.excalidraw.png",
+    "Excalidraw/fork with exec illustratedexcalidraw.png",
+    "Excalidraw/exec call illustrated.excalidraw.png",
+    "Excalidraw/exec call illustrated.excalidraw.excalidraw",
+    "assets/API in a nutshell.png",
+    "attachments",
     "definitions/Pasted image 20220601142748.png",
-    "definitions/Pasted image 20220603004844.png",
-    "definitions/Pasted image 20220603004751.png",
-    "definitions/Pasted image 20220602143915.png",
-    "IPS/attachments/Pasted image 20220921081110.png",
     "Excalidraw/linux boot process.excalidraw.excalidraw",
     "Excalidraw/domain namespace.excalidraw.excalidraw",
-    "Excalidraw/domain namespace.excalidraw.png",
     "Excalidraw",
-    "UNIX/attachments/Pasted image 20220920131355.png",
     "templates",
-    "Excalidraw/linux boot process.excalidraw.png",
     "CLI/windows",
-    "CLI/unix-linux",
-    "CLI",
-    "media-export/Drawing 2023-06-16 13.55.47.excalidraw.excalidraw",
-    "Drawing 2023-06-16 13.55.47.excalidraw.excalidraw",
-    "media-export",
     "Untitled.canvas"
   ]
 }

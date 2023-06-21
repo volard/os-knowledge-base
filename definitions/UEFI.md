@@ -1,5 +1,13 @@
-Extensible Firmware Interface (EFI)  — корректно инициализировать оборудование при включении системы и передать управление загрузчику или ядру операционной системы. 
+---
+tags: definition
+aliases: EFI, Extensible Firmware Interface, UEFI, Unified Extensible Firmware Interface
+sources: 
+---
 
-EFI разработана Intel, позднее от названия отказались и последняя версия носит название Unified Extensible Firmware Interface (UEFI). Теперь разработкой UEFI занимается Unified EFI Forum.
+A specification defines the architecture of the platform firmware used for booting and its interface for interaction with the OS.
+
+Replace [[BIOS]] and have backwards compatibility via [[CSM booting]]
+Includes support for booting over network [[PXE]]
 
 uses the `.efi` file
+
