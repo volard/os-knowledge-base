@@ -1,6 +1,6 @@
 ---
 tags: definition
-aliases: LANs
+aliases: LANs, local area network, LAN, Local Area Network
 sources: 
 ---
 

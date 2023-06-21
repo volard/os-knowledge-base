@@ -1,3 +1,3 @@
-Address Space Layout Randomization –  защитный механизм, поддерживаемый  практически всеми OS
+> Address Space Layout Randomization
 
-ASLR случайным образом изменяет расположение в адресном пространстве различных важных структур данных, and that prevents hacking process or makes it harder
+защитный механизм, случайным образом изменяет расположение в адресном пространстве различных важных структур данных, and that prevents hacking process or makes it harder

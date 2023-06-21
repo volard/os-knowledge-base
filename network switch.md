@@ -26,5 +26,5 @@ Let's imagine Switch had just turned on and its table is empty. Suppose `Compute
 2. It forwards `Computer A`'s message to all other computers on the network (except `Computer A`); this is known as **flooding**
 3. When `Computer B` finally replies, switch records `Computer B`'s [[MAC|MAC address]] and port as well
 
-# Switch vs [[Router]]
+# Switch vs [[router]]
 [[router|Routers]] are necessary for an Internet connection as they connects with different networks and forwarding data from network to network — including [[LAN|LANs]], [[WAN|WANs]], or autonomous systems, while **switches are only used for interconnecting devices**.

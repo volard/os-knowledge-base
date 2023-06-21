@@ -1,1 +1,0 @@
-**pac**kage **man**ager for [[Arch Linux]]

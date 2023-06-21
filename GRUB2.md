@@ -11,7 +11,7 @@ Popular because it feature-rich:
 - boots both a graphical and a text-based interface
 - allows ease of use over a serial cable
 - strong CLI for interactive configuration
-- network-based diskless booting
+- [[network]]-based diskless booting
 
 To check for the GRUB version
 ```bash

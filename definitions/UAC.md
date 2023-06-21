@@ -1,3 +1,0 @@
-# UAC  
-
-User Account Control
