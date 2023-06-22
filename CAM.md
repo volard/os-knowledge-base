@@ -1,6 +1,6 @@
 ---
 tags: definition
-aliases: associative memory, associative storage
+aliases: associative memory, associative storage, Content Addressable Memory
 sources: 
 ---
 

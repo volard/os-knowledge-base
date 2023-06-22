@@ -1,11 +1,11 @@
 ---
 tags: definition
-aliases: 
+aliases: AD
 sources: https://www.cyberark.com/what-is/active-directory/
 ---
 Implementation of [[Directory service|directory service]] designed by Microsoft for Windows domain networks, but it also contains some other stuff for example identity management service
 
-aka `AD` for short
+ `AD` for short
 
 Uses [[LDAP]]
 

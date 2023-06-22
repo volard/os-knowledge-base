@@ -4,7 +4,7 @@ Website: https://web.mit.edu/kerberos/
 
 Named after the character Kerberos (or Cerberus from Greek mythology), the ferocious three-headed guard dog of Hades
 
-Uses UDP [[port]] 88 by default.
+Uses UDP [[networking port]] 88 by default.
 
 Used by Microsoft as default authentication method, but they have their own version of this protocol.
 

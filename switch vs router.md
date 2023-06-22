@@ -1,0 +1,2 @@
+
+[[router|Routers]] are necessary for an [[Internet]] connection as they connects with different [[network|networks]] and forwarding data from network to network — including [[LAN|LANs]], [[WAN|WANs]], or autonomous systems, while **[[network switch|switches]] are only used for interconnecting devices**.

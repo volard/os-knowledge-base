@@ -1,6 +1,6 @@
 ---
 tags: definition
-aliases: networks, computer networks, network, client-to-server, peer-to-peer, PAN, personal area network
+aliases: networks, computer networks, network, client-to-server, peer-to-peer, PAN, personal area network, computer network
 sources: https://www.geeksforgeeks.org/what-is-computer-networking/
 ---
 
@@ -20,5 +20,7 @@ Computers are connected to each other and each computer is equally capable of wo
 - Personal Area Network (PAN) - range of 1 to 100 meters from person
 - [[LAN|Local Area Network]] (LAN)
 - Campus Area Network (CAN) - mainly use Ethernet technology with a range from 1km to 5km
-- Metropolitan Area Network (MAN) - uses FDDI, CDDI, and ATM as the technology with a range from 5km to 50km (geographical area)
+- [[Metropolitan Area Network]] (MAN)
 - [[WAN|Wide Area Network]] (WAN)
+- Wireless [[LAN|local area network]] (WLAN)
+- [[Storage Area Network]] (SAN)

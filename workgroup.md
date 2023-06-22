@@ -1,0 +1,1 @@
+Collection of computers on a [[LAN]] that share the common resources and responsibilities via maintaining each SAN. Workgroup is Microsoft's term for a [[network|peer-to-peer]] local area [[network]]. 

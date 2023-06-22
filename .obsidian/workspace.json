@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "954326c561f1c6ad",
+        "id": "79f6ca98db80bb4d",
         "type": "tabs",
         "children": [
           {
-            "id": "67f39c4eb629f6ca",
+            "id": "ff0fabe776530da4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "network bridging.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c71cadcfe3a29bdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "network bridging.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41817a081d98500f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "network.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "peer-to",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "network.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -188,35 +154,36 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "41817a081d98500f",
+  "active": "ff0fabe776530da4",
   "lastOpenFiles": [
-    "WAN.md",
-    "network.md",
-    "LAN.md",
-    "routing table.md",
-    "network bridging.md",
-    "network topology.md",
-    "routing.md",
-    "NAT.md",
-    "internet.md",
-    "HTTPS.md",
-    "DHCP.md",
-    "IP address.md",
-    "PXE.md",
-    "file descriptor.md",
-    "Active Directory.md",
-    "GRUB2.md",
-    "networking device.md",
-    "network bridge.md",
-    "routing protocol.md",
-    "Excalidraw/COW illustrated.excalidraw.png",
-    "supernetting.md",
-    "network interface.md",
-    "routing schemes.md",
+    "ОS.md",
+    "OS compoenents.md",
+    "mess/OS types.md",
+    "README.md",
     "router.md",
-    "multicast.md",
-    "gateway.md",
-    "supernet.md",
+    "NAT.md",
+    "hostname.md",
+    "virtual IP.md",
+    "IP address.md",
+    "network.md",
+    "AH.md",
+    "I O port.md",
+    "port forwarding.md",
+    "packet.md",
+    "networking port.md",
+    "forwarding table.md",
+    "routing.md",
+    "routing table.md",
+    "port.md",
+    "I",
+    "Software port.md",
+    "hardware port.md",
+    "mess/Plug and Play (PnP).md",
+    "API.md",
+    "IPP.md",
+    "CUPS.md",
+    "network switch.md",
+    "Excalidraw/COW illustrated.excalidraw.png",
     "Excalidraw/TCP IP network topology.excalidraw.png",
     "definitions/Pasted image 20220601142748.png",
     "Excalidraw/attachments/Pasted Image 20230621142318_298.png",
@@ -231,7 +198,6 @@
     "Excalidraw/libs/computers.excalidrawlib",
     "Excalidraw/libs/cloud-design-patterns.excalidrawlib",
     "Excalidraw/libs",
-    "Excalidraw/New folder",
     "Excalidraw/attachments/Pasted Image 20230621120557_298.png",
     "Excalidraw/attachments/Pasted Image 20230621120542_287.png",
     "assets/Linux FS.png",

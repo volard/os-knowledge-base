@@ -6,4 +6,4 @@ sources:
 
 > BitLocker Drive Encryption  
 
-проприетарная технология шифрования дисков
+A Trusted Platform Module (TPM) chip is required for this

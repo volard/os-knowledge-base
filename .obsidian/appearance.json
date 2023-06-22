@@ -2,5 +2,6 @@
   "cssTheme": "Purple Owl",
   "enabledCssSnippets": [],
   "theme": "system",
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 15
 }

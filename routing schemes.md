@@ -1,6 +1,6 @@
 ---
 tags: definition
-aliases: Delivery schemes
+aliases: Delivery schemes, unicast, broadcast, multicast, anycast
 sources: 
 ---
 

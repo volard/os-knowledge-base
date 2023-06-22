@@ -9,4 +9,4 @@ Implemented using the [[HTTP]] and inherits all its streaming and security featu
 
 Uses the traditional client–server model, with clients sending IPP requests to an IPP printer with the MIME media type `application/ipp` 
 
-Uses TCP on 631 [[port]]
+Uses TCP on 631 [[networking port]]
