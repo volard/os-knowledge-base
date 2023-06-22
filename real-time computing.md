@@ -1,1 +1,7 @@
-aka *RTC* is a term describing real-time constraints (or deadlines)
+---
+tags: definition
+aliases: RTC
+sources: 
+---
+
+> A term describing real-time constraints (or deadlines)

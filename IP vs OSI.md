@@ -1,3 +1,7 @@
+> Protocol Wars
+
+A long-running debate in computer science known as the Protocol Wars occurred from the 1970s to the 1990s when engineers, organizations and nations became polarized over the issue of which communication protocol would result in the best and most robust computer networks
+
 # Choice
 For many OSI is the preferable choice — all other things being equal. The fact that it segments the functions of the network into more layers makes troubleshooting and improving network performance more straightforward.
 

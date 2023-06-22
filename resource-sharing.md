@@ -1,0 +1,1 @@
+As I got it, it's like the next stage of computer usage strategy after [[time-sharing]]. Now people have more hardware and they want to operate with computer resources together. Now folks have to wait to get access to some database for example and calculate some things using received data but for limited time.

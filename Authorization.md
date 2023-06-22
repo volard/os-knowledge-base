@@ -1,0 +1,1 @@
+Whereas [[Authentication]] authentication is the process of verifying that `you are who you say you are`, authorization is the process of verifying that `you are permitted to do what you are trying to do`

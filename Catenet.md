@@ -1,0 +1,1 @@
+An obsolete term for [[packet switching|packet-switched]] a system of packet communication networks interconnected via gateways

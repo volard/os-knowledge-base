@@ -4,7 +4,9 @@ aliases:
 sources: https://www.cloudflare.com/learning/network-layer/what-is-ipsec/
 ---
 
-Group of protocols for securing [[IP]] connections between devices via adding [[encryption]] and authentication
+> Group of protocols for securing [[IP]] connections between devices via adding [[encryption]] and authentication
+
+Was originally developed for [[IPv6]]
 
 [[AH]]
 

@@ -1,1 +1,9 @@
-The non-unique number that defines the network itself. This number can be automatically generated but is sometimes requested by the method you use to configure the interface. It, too, has the format xxx.xxx.xxx.xxx. 
+---
+tags: definition
+aliases: mask, subnet mask, routing prefix, Genmask
+sources: 
+---
+
+> A [[bitmask]] that encodes the prefix length
+
+It's 32 bits, starting with a number of _1_-bits equal to the prefix length, ending with _0_-bits

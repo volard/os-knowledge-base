@@ -4,8 +4,8 @@ aliases: Routing
 sources: 
 ---
 
-The process of selecting a path for traffic in a [[network]] or between or across multiple networks.
-Generally speaking, this term relates not only to computer networks.
+> The packet [[forwarding]] algorithm selection and execution in a  [[network|computer network]]
+
 
 Uses [[routing schemes|Delivery schemes]]
 

@@ -1,0 +1,1 @@
+As I got it, it's about sharing physical usage of one computer. This kind of computer sharing was a long time ago, when no PC existed and people literally had to wait until use computer and compile their shitty Fortran or whatever.

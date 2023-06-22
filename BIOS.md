@@ -1,4 +1,4 @@
-basic input/output system  — a set of micro programs
+> Basic input/output system  — a set of micro programs
 
 contains all the code to gain initial access to the main machine devices:
 - keyboard

@@ -6,6 +6,8 @@ sources:
 
 > Networking device that forwards (routes) data packets between computer networks.
 
+[[internetworking|Interconnecting]] gateway in other words.
+
 Performs the traffic directing functions between networks and on the global Internet.
 
 Router itself can have either static, neither dynamic [[IP address]]

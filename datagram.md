@@ -1,0 +1,1 @@
+Each datagram has two components: a header and a payload

@@ -1,6 +1,6 @@
 ---
 tags: definition
-aliases: Operating system
+aliases: Operating system, operating system
 sources: 
 ---
 > System software that manages computer hardware and software resources, and provides common services for other computer programs
@@ -10,7 +10,7 @@ sources:
 - Single- and multi-user
 - Distributed
 - Embedded
-- Real-time
+- [[real-time os|Real-time OS]]
 - Library
 
 # Main components

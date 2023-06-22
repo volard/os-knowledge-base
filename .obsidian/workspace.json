@@ -6,20 +6,56 @@
       {
         "id": "de0e7bdc870eca2b",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "ffd68492620e2e76",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/IPv4 address format.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "6effe8dbd5d7a8a2",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "PAT.md",
+                "file": "IPv4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3d1764888345170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "subnetwork.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e08f63d8cc123faa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "netmask.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "peer-to",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "84ffbbfe4aed191e",
@@ -94,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PAT.md",
+                "file": "IPv4.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PAT.md",
+                "file": "IPv4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,15 +177,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PAT.md"
+                "file": "IPv4.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 423.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,42 +199,47 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "ffd68492620e2e76",
+  "active": "6effe8dbd5d7a8a2",
   "lastOpenFiles": [
-    "NAPT.md",
-    "PAT.md",
-    "SNAT.md",
-    "router.md",
-    "hardware port.md",
-    "NAT.md",
-    "loopback.md",
-    "proxy.md",
-    "intranet.md",
-    "data center.md",
-    "Access Control List.md",
-    "modular data center.md",
-    "network hardware.md",
-    "README.md",
-    "internet.md",
-    "routing protocol.md",
-    "ОS.md",
-    "OS compoenents.md",
-    "mess/OS types.md",
-    "hostname.md",
-    "virtual IP.md",
+    "subnetwork.md",
+    "netmask.md",
+    "bitmask.md",
+    "bitwise operation.md",
+    "IPv4.md",
+    "CIDR.md",
+    "Excalidraw/IPv4 address format.excalidraw.md",
+    "classfull network.md",
+    "Excalidraw/domain namespace.excalidraw.md",
+    "IPv6.md",
+    "Subnet Cheat Sheet.md",
+    "Excalidraw/attachments/Pasted Image 20230621142318_298.png",
+    "Excalidraw/attachments/Pasted Image 20230623020023_351.png",
+    "Excalidraw/attachments/Pasted Image 20230623015947_397.png",
+    "Excalidraw/attachments/Pasted Image 20230621120542_287.png",
+    "ISP.md",
+    "Excalidraw/IPv4 address format.excalidraw.png",
+    "Excalidraw/IPv4 address format.excalidraw.excalidraw",
     "IP address.md",
-    "network.md",
-    "AH.md",
-    "I O port.md",
-    "port forwarding.md",
+    "FTP.md",
+    "SSH File Transfer Protocol.md",
+    "gateway.md",
+    "HTTP.md",
+    "OSI.md",
+    "supernetting.md",
+    "Catenet.md",
+    "packet switching.md",
+    "Authorization.md",
+    "Authentication.md",
+    "identification.md",
+    "World Wide Web.md",
+    "TTL.md",
+    "assets/Linux file structure.png",
+    "assets/WOL in a nutshell.png",
+    "assets/API in a nutshell.png",
+    "mess/Pasted image 20220601214017.png",
     "I",
     "Excalidraw/COW illustrated.excalidraw.png",
-    "Excalidraw/TCP IP network topology.excalidraw.png",
-    "definitions/Pasted image 20220601142748.png",
-    "Excalidraw/attachments/Pasted Image 20230621142318_298.png",
-    "Excalidraw/network physical topologies.excalidraw.png",
     "Excalidraw/network physical topologies.excalidraw.excalidraw",
-    "Excalidraw/UDP data to Link TCP IP layer encapsulation.excalidraw.png",
     "Excalidraw/UDP data to Link TCP IP layer encapsulation.excalidraw.excalidraw",
     "Excalidraw/libs/systems-design-components.excalidrawlib",
     "Excalidraw/libs/some-handdrawn-signs.excalidrawlib",
@@ -205,11 +247,6 @@
     "Excalidraw/libs/mathematical-symbols.excalidrawlib",
     "Excalidraw/libs/computers.excalidrawlib",
     "Excalidraw/libs/cloud-design-patterns.excalidrawlib",
-    "Excalidraw/libs",
-    "Excalidraw/attachments/Pasted Image 20230621120557_298.png",
-    "Excalidraw/attachments/Pasted Image 20230621120542_287.png",
-    "assets/Linux FS.png",
-    "assets/API in a nutshell.png",
     "Untitled.canvas"
   ]
 }

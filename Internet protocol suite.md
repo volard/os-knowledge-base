@@ -1,20 +1,24 @@
 ---
 tags: definition
-aliases: TCP/IP, protocol stack
+aliases: TCP/IP
 sources: 
 ---
 
-A framework for organizing the set of communication protocols used in the Internet and similar computer networks
+> A framework for organizing the set of [[protocol|communication protocols]] used in the [[internet]] and similar [[network|computer networks]]
 
-An implementation of the layers for a particular application forms a **protocol stack**.
+**Protocol suite** - group of protocols designed to work together
 
-# Architecture
+# Core protocols
+- [[IP|Internet Protocol]] (IP)
+- Transmission Control Protocol (TCP)
+- User Datagram Protocol (UDP)
 
-
-# Implementations
+# Implementation
 The Internet protocol suite does not presume any specific hardware or software environment.
 
-A minimal implementation of TCP/IP includes the following: 
+**Protocol stack** - implementation of the layers (protocol suite) for a particular application (in software?)
+
+## A minimal implementation of TCP/IP includes the following: 
 - [[IP|Internet Protocol]] (IP)
 - [[ARP|Address Resolution Protocol]] (ARP)
 - [[ICMP|Internet Control Message Protocol]] (ICMP)

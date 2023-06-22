@@ -30,4 +30,5 @@ under one umbrella
 - [Darshan Chaudhary's notes](https://github.com/darshanime/notes)
 - [CS 134: Operating Systems-Fall, 2020 by Neil Rhodes](https://youtube.com/playlist?list=PL2Yggtk_pK6-R9ehjj0AoTnWrNOLChuld)
 - Command-line brief usages provided by [tldr-pages](https://github.com/tldr-pages/tldr)
+- [Wikipedia](https://en.wikipedia.org)
 - …

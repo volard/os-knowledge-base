@@ -3,9 +3,9 @@
   "search": "path:-templates",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "",
@@ -17,14 +17,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.954947916666667,
-  "lineSizeMultiplier": 3.76223958333333,
+  "textFadeMultiplier": -0.8,
+  "nodeSizeMultiplier": 0.9421875,
+  "lineSizeMultiplier": 3.59635416666667,
   "collapse-forces": false,
-  "centerStrength": 0.5078125,
-  "repelStrength": 10,
-  "linkStrength": 0.8984375,
-  "linkDistance": 30,
-  "scale": 0.36288736930121335,
-  "close": true
+  "centerStrength": 0.494791666666667,
+  "repelStrength": 10.5208333333333,
+  "linkStrength": 0.380208333333333,
+  "linkDistance": 272,
+  "scale": 0.18462326225858242,
+  "close": false
 }
