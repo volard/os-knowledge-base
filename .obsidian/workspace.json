@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "79f6ca98db80bb4d",
+        "id": "de0e7bdc870eca2b",
         "type": "tabs",
         "children": [
           {
-            "id": "ff0fabe776530da4",
+            "id": "ffd68492620e2e76",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PAT.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PAT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PAT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PAT.md"
+              }
             }
           }
         ]
@@ -154,14 +162,27 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "ff0fabe776530da4",
+  "active": "ffd68492620e2e76",
   "lastOpenFiles": [
+    "NAPT.md",
+    "PAT.md",
+    "SNAT.md",
+    "router.md",
+    "hardware port.md",
+    "NAT.md",
+    "loopback.md",
+    "proxy.md",
+    "intranet.md",
+    "data center.md",
+    "Access Control List.md",
+    "modular data center.md",
+    "network hardware.md",
+    "README.md",
+    "internet.md",
+    "routing protocol.md",
     "ОS.md",
     "OS compoenents.md",
     "mess/OS types.md",
-    "README.md",
-    "router.md",
-    "NAT.md",
     "hostname.md",
     "virtual IP.md",
     "IP address.md",
@@ -169,20 +190,7 @@
     "AH.md",
     "I O port.md",
     "port forwarding.md",
-    "packet.md",
-    "networking port.md",
-    "forwarding table.md",
-    "routing.md",
-    "routing table.md",
-    "port.md",
     "I",
-    "Software port.md",
-    "hardware port.md",
-    "mess/Plug and Play (PnP).md",
-    "API.md",
-    "IPP.md",
-    "CUPS.md",
-    "network switch.md",
     "Excalidraw/COW illustrated.excalidraw.png",
     "Excalidraw/TCP IP network topology.excalidraw.png",
     "definitions/Pasted image 20220601142748.png",

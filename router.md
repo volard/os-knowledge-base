@@ -1,12 +1,12 @@
 ---
 tags: definition
-aliases: Router, Routers, routers
+aliases: Router, Routers, routers, rouring device
 sources: 
 ---
 
-> Networking device that forwards data packets between computer networks.
+> Networking device that forwards (routes) data packets between computer networks.
 
-The router handles all the traffic from your computers and other devices out to the internet. So even though a website only sees a request come in from the [[IP address]] on the router, the router knows how to route the information to/from the computer. (That's why it's called a router)
+Performs the traffic directing functions between networks and on the global Internet.
 
 Router itself can have either static, neither dynamic [[IP address]]
 
@@ -17,4 +17,7 @@ Uses [[routing schemes]]
 May use manually configured [[routing table]]
 
 ## Dynamic
-Construct routing tables automatically, based on information carried by routing protocols,
+Construct routing tables automatically, based on information carried by [[routing protocol|routing protocols]]
+
+# See also
+[[Core routers]]

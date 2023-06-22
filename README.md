@@ -17,12 +17,13 @@ Use `graph view`, `search prompt` and `backlinks` for navigation.
 	- [ ] setup / deploy / OS (server OS)
 	- [ ] security
 	- [ ] a lot of …😭
-## 🎯 End goal
+### 🎯 End goal
 Strongly interconnect 
-- `business management processes`,
-- `Digital rights`,
+- `business management processes`
+- `Digital rights`
 - `bare-metal computing theory` 
 - `cloud based networking` 
+
 under one umbrella
 
 # 🔖 References
