@@ -1,0 +1,1 @@
+In the Service Locator pattern, application explicitly requests the dependencies by sending a message to the locator but in Dependency Injection, the dependency just appears without asking explicitly.

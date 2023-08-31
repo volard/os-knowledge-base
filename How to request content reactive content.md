@@ -1,0 +1,1 @@
+To indicate intention to open SSE (Server-Sent-Events) `Accept` header to `text/event-stream`

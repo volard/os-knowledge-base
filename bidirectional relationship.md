@@ -1,0 +1,1 @@
+> we are able to access child entitles from parent entity AVV

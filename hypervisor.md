@@ -11,7 +11,6 @@ soft, firmware or hardware that runs [[virtual machine]](s)
 Unlike an [[emulator]], the guest executes most instructions on the native hardware without need of any kind of interpreter
 
 # Types
-
 ## Type 1 or bare metall
 OS designed to run VMs. It is installed directly on the disk to be executed from the boot sector like any OS
 

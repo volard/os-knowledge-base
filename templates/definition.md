@@ -1,5 +1,5 @@
 ---
-tags: definition
+tags:
 aliases: 
 sources: 
 ---

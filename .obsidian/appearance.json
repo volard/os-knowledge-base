@@ -3,5 +3,7 @@
   "enabledCssSnippets": [],
   "theme": "system",
   "accentColor": "",
-  "baseFontSize": 15
+  "baseFontSize": 15,
+  "showViewHeader": true,
+  "translucency": true
 }

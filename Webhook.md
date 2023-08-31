@@ -1,0 +1,1 @@
+> A mechanism for sending real-time notifications from one application to another. It allows an application to send an HTTP request to a specified URL whenever a certain event occurs

@@ -1,0 +1,9 @@
+The [**Circuit Breaker pattern**](https://medium.com/javarevisited/what-is-circuit-breaker-design-pattern-in-microservices-java-spring-cloud-netflix-hystrix-example-f285929d7f68) is used to detect failures and prevent cascading failures in a distributed system. It operates like an electrical circuit breaker, which trips and breaks the circuit when there is an overload, preventing damage to the electrical equipment. Similarly, the Circuit Breaker pattern can trip and stop the flow of traffic to a failing system.
+
+**How Circuit Breaker pattern works:**
+
+The [Circuit Breaker pattern](https://www.java67.com/2023/04/what-is-circuit-breaker-design-pattern.html) works by monitoring the health of a system component and taking action when it detects a failure. The Circuit Breaker has three states: closed, open, and half-open.
+
+1. Closed state: In the closed state, the Circuit Breaker allows traffic to flow normally to the system component. The Circuit Breaker monitors the response times and error rates of the system component.
+2. Open state: If the Circuit Breaker detects that the system component is failing, it trips and enters the open state. In the open state, the Circuit Breaker stops all traffic to the system component and redirects traffic to a backup component or returns an error message to the client.
+3. Half-open state: After a certain amount of time has passed, the Circuit Breaker enters the half-open state. In the half-open state, the Circuit Breaker allows a limited amount of traffic to flow to the system component. If the system component responds successfully to the traffic, the Circuit Breaker returns to the closed state. If the system component fails to respond successfully, the [Circuit Breaker returns](https://www.java67.com/2023/04/what-is-circuit-breaker-design-pattern.html) to the open state.

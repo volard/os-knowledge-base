@@ -1,0 +1,8 @@
+- Shouldn’t use JWTs as session tokens (what?)
+- `HttpOnly` cookies and sensible [[CORS]] policies cannot prevent [[CSRF]] form-submit attacks and using cookies require a proper [[CSRF]] mitigation strategy
+- The [OWASP JWT Cheatsheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/JSON_Web_Token_for_Java_Cheat_Sheet.md) and [OWASP ASVS (Application Security Verification Standard)](https://github.com/OWASP/ASVS) prescribe guidelines for handling and storing tokens.
+- Unsigned JWTs should be considered invalid to prevent Signature stripping attack
+- All data should be validated to prevent [[XSS]]
+- `HttpOnly` flag should be used to secure session data
+- Monitor client and server data usage balance to build secure, scalable yet fast service
+- _First sign the message and then encrypt the result_

@@ -5,9 +5,9 @@
 Use `graph view`, `search prompt` and `backlinks` for navigation. 
 
 ## ✅ TODO
-- [ ] Eliminate Russian
+- [x] Eliminate Russian
 - [x] Eliminate anki connection templated notes
-- [ ] Remove all long reads
+- [x] Remove all long reads
 - [x] Remove stupid stuff (like "uh what's difference between mobile and desktop GUI hmmm")
 - [ ] Add new theory
 	- [ ] memory
