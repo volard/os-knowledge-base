@@ -1,11 +1,10 @@
 # 🖥️ Operating systems notes
 
-> Poorly linked & partly Russian spoken (bruh) [Obsidian](https://www.obsidian.net/) vault
+> Poorly linked [Obsidian](https://www.obsidian.net/) vault
 
 Use `graph view`, `search prompt` and `backlinks` for navigation. 
 
 ## ✅ TODO
-- [x] Eliminate Russian
 - [x] Eliminate anki connection templated notes
 - [x] Remove all long reads
 - [x] Remove stupid stuff (like "uh what's difference between mobile and desktop GUI hmmm")
@@ -31,4 +30,5 @@ under one umbrella
 - [CS 134: Operating Systems-Fall, 2020 by Neil Rhodes](https://youtube.com/playlist?list=PL2Yggtk_pK6-R9ehjj0AoTnWrNOLChuld)
 - Command-line brief usages provided by [tldr-pages](https://github.com/tldr-pages/tldr)
 - [Wikipedia](https://en.wikipedia.org)
+- [Nakov's Cryptobook](https://cryptobook.nakov.com)
 - …

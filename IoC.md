@@ -15,7 +15,7 @@ Hence that IoC is often called the Hollywood Principle:
 It's achievable through common methods:
 - [[DI|Dependency Injection]]
 - [[Observer Pattern]]
-- [[Template Method Pattern]]
+- [[message authentication]]
 - [[Factory Pattern]]
 -  [strategy design pattern](https://en.wikipedia.org/wiki/Strategy_design_pattern)
 - contextualized lookup

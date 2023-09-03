@@ -5,5 +5,6 @@
   "accentColor": "",
   "baseFontSize": 15,
   "showViewHeader": true,
-  "translucency": true
+  "translucency": true,
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono"
 }

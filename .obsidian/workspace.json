@@ -4,22 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "0e4665365e09ca82",
+        "id": "5336f227de799c74",
         "type": "tabs",
         "children": [
           {
-            "id": "bb1dd61ae3796b40",
+            "id": "d409ba3dfba9e64e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSL/TLS certificate.md",
+                "file": "truststore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99ea0e4a262400da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECDSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23ab820a62516a74",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/user_oauth_flow.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "c406f1e83e474c8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hybrid cryptosystem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#security",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,11 +108,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "84ffbbfe4aed191e",
@@ -93,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSL/TLS certificate.md",
+                "file": "hybrid cryptosystem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSL/TLS certificate.md",
+                "file": "hybrid cryptosystem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,15 +178,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSL/TLS certificate.md"
+                "file": "hybrid cryptosystem.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 316.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,35 +199,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb1dd61ae3796b40",
+  "active": "c406f1e83e474c8a",
   "lastOpenFiles": [
+    "integrated encryption scheme.md",
+    "hybrid cryptosystem.md",
+    "key establishment.md",
+    "digital signature.md",
+    "ECC.md",
+    "hybrid encryption scheme.md",
+    "ECDH.md",
+    "cryptosystem.md",
+    "Diffie–Hellman Key Exchange.md",
     "Public-key cryptography.md",
-    "Symmetric-key algorithm.md",
+    "ECDSA.md",
+    "HTTP Strict Transport Security.md",
+    "HTTPS.md",
+    "README.md",
+    "DDoS.md",
     "SSL/TLS certificate.md",
-    "Public key certificate.md",
-    "SSL.md",
+    "web of trust.md",
+    "network.md",
+    "man-in-the-middle attack.md",
+    "Symmetric-key algorithm.md",
+    "key derivation functions.md",
+    "key stretching.md",
+    "dictionary attack.md",
+    "message authentication.md",
+    "hash function.md",
+    "MAC.md",
+    "Excalidraw/STL flow.excalidraw.png",
+    "Excalidraw/STL flow.excalidraw.excalidraw",
+    "Excalidraw/full_oauth_flow.excalidraw.excalidraw",
+    "Excalidraw/user_oauth_flow.excalidraw.png",
+    "Excalidraw/user_oauth_flow.excalidraw.excalidraw",
+    "Excalidraw/full_oauth_flow.excalidraw.png",
     "SSL",
-    "Active Directory Domain Service.md",
-    "The WebSocket API.md",
-    "Swagger.md",
-    "Structured Query Language.md",
-    "Status codes.md",
-    "Spoofing attack.md",
-    "Some sources.md",
-    "Shadow library.md",
-    "SHA.md",
-    "sessionStorage.md",
-    "Servlet.md",
-    "Save in MongoDB.md",
-    "Saga Pattern.md",
-    "Runtime Data Area.md",
-    "RSA.md",
-    "RFC 7807.md",
-    "REST API.md",
-    "REST API Documentation elements.md",
-    "replay attack.md",
-    "Relational Databases.md",
-    "Reactive Streams.md",
     "assets/API in a nutshell.png",
     "assets/Linux file structure.png",
     "assets/WOL in a nutshell.png",
@@ -196,18 +241,12 @@
     "Excalidraw/attachments/Pasted Image 20230621142318_298.png",
     "Excalidraw/attachments/Pasted Image 20230621120542_287.png",
     "Excalidraw/attachments/Pasted Image 20230623020023_351.png",
-    "Excalidraw/attachments/Pasted Image 20230623015947_397.png",
-    "Excalidraw/IPv4 address format.excalidraw.png",
     "Excalidraw/IPv4 address format.excalidraw.excalidraw",
     "I",
-    "Excalidraw/COW illustrated.excalidraw.png",
     "Excalidraw/network physical topologies.excalidraw.excalidraw",
     "Excalidraw/UDP data to Link TCP IP layer encapsulation.excalidraw.excalidraw",
     "Excalidraw/libs/systems-design-components.excalidrawlib",
     "Excalidraw/libs/some-handdrawn-signs.excalidrawlib",
-    "Excalidraw/libs/network-elements.excalidrawlib",
-    "Excalidraw/libs/mathematical-symbols.excalidrawlib",
-    "Excalidraw/libs/computers.excalidrawlib",
     "Untitled.canvas"
   ]
 }

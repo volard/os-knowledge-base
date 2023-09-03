@@ -3,5 +3,7 @@ aliases:
 tags: security 
 sources: 
 ---
+> **Rivest–Shamir–Adleman** - vulnerable, ancient public-key [[cryptosystem]] for dinosaurs  😞
 
-> **Rivest–Shamir–Adleman** -  public-key [[cryptosystem]]
+# See also
+[[alternatives to RSA]]

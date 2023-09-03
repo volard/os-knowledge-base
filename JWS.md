@@ -15,3 +15,6 @@ Signature is used to verify that it is in fact from a legitimate source.
 For signing with [[Public-key cryptography]]:
 - The `private key` is owned by the issuer and is used **to create** the signature.
 - The `public key` can be shared with all parties that need **to verify** the signature.
+
+# See also
+[[JWE]]

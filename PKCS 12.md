@@ -10,3 +10,6 @@ sources: https://en.wikipedia.org/wiki/PKCS_12
 |---|---|
 |Filename extension|`.p12`, `.pfx`|
 |Internet media type |application/x-pkcs12|
+
+# See also
+[[PKCS]]
