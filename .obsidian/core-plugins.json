@@ -6,7 +6,6 @@
   "backlink",
   "outgoing-link",
   "tag-pane",
-  "properties",
   "page-preview",
   "templates",
   "note-composer",
@@ -14,6 +13,7 @@
   "slash-command",
   "editor-status",
   "bookmarks",
+  "random-note",
   "outline",
   "file-recovery"
 ]

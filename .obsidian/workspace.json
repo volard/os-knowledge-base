@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hybrid cryptosystem.md",
+                "file": "Authentication.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,13 +108,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "84ffbbfe4aed191e",
@@ -130,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hybrid cryptosystem.md",
+                "file": "Authentication.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hybrid cryptosystem.md",
+                "file": "Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,17 +176,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hybrid cryptosystem.md"
+                "file": "Authentication.md"
               }
+            }
+          },
+          {
+            "id": "0b58e0e57fde311a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,13 +201,17 @@
       "graph:Open graph view": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "random-note:Open random note": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c406f1e83e474c8a",
+  "active": "d9c35bb4a2da5aad",
   "lastOpenFiles": [
-    "integrated encryption scheme.md",
+    "templates/base.md",
     "hybrid cryptosystem.md",
+    "Authentication.md",
+    "integrated encryption scheme.md",
     "key establishment.md",
     "digital signature.md",
     "ECC.md",
@@ -225,8 +234,6 @@
     "key stretching.md",
     "dictionary attack.md",
     "message authentication.md",
-    "hash function.md",
-    "MAC.md",
     "Excalidraw/STL flow.excalidraw.png",
     "Excalidraw/STL flow.excalidraw.excalidraw",
     "Excalidraw/full_oauth_flow.excalidraw.excalidraw",
