@@ -47,14 +47,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Authentication.md",
+                "file": "session management strategies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7e962203711d3ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BGP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Authentication.md",
+                "file": "BGP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Authentication.md",
+                "file": "BGP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Authentication.md"
+                "file": "BGP.md"
               }
             }
           },
@@ -186,6 +198,16 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {}
+            }
+          },
+          {
+            "id": "d4601771eddff06a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -206,11 +228,26 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d9c35bb4a2da5aad",
+  "active": "a7e962203711d3ea",
   "lastOpenFiles": [
+    "Back pressure.md",
+    "Authorization request header.md",
+    "B-tree.md",
+    "CLI/unix-like/adduser.md",
+    "SSL/TLS certificate.md",
+    "Active Directory Domain Service.md",
+    "Active Directory.md",
+    "Access Control List.md",
+    "cow.md",
     "templates/base.md",
-    "hybrid cryptosystem.md",
+    "JWT.md",
+    "CIDR.md",
+    "serialization.md",
+    "Some sources.md",
     "Authentication.md",
+    "session management strategies.md",
+    "truststore.md",
+    "hybrid cryptosystem.md",
     "integrated encryption scheme.md",
     "key establishment.md",
     "digital signature.md",
@@ -219,21 +256,6 @@
     "ECDH.md",
     "cryptosystem.md",
     "Diffie–Hellman Key Exchange.md",
-    "Public-key cryptography.md",
-    "ECDSA.md",
-    "HTTP Strict Transport Security.md",
-    "HTTPS.md",
-    "README.md",
-    "DDoS.md",
-    "SSL/TLS certificate.md",
-    "web of trust.md",
-    "network.md",
-    "man-in-the-middle attack.md",
-    "Symmetric-key algorithm.md",
-    "key derivation functions.md",
-    "key stretching.md",
-    "dictionary attack.md",
-    "message authentication.md",
     "Excalidraw/STL flow.excalidraw.png",
     "Excalidraw/STL flow.excalidraw.excalidraw",
     "Excalidraw/full_oauth_flow.excalidraw.excalidraw",

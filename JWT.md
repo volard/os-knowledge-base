@@ -2,10 +2,10 @@
 aliases: JSON Web Tokens, JWS, JWE, JSON Web Signature, JSON Web Encryption
 tags: security, JOSE, JavaScript Object Signature and Encryption
 sources: 
-https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/#introduction-what-is-a-jwt, 
-https://www.baeldung.com/java-json-web-tokens-jjwt, https://stackoverflow.com/questions/39239051/rs256-vs-hs256-whats-the-difference#39239395, 
-https://codecurated.com/blog/introduction-to-jwt-jws-jwe-jwa-jwk/#json-web-algorithm-jwa,
-https://www.iana.org/assignments/jose/jose.xhtml
+- https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/#introduction-what-is-a-jwt, 
+- https://www.baeldung.com/java-json-web-tokens-jjwt, https://stackoverflow.com/questions/39239051/rs256-vs-hs256-whats-the-difference#39239395, 
+- https://codecurated.com/blog/introduction-to-jwt-jws-jwe-jwa-jwk/#json-web-algorithm-jwa,
+- https://www.iana.org/assignments/jose/jose.xhtml
 ---
 >  Open standard ([RFC 7519](https://tools.ietf.org/html/rfc7519)) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object
 >  Pronounced as jot

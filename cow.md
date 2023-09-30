@@ -1,8 +1,9 @@
 ---
 tags: definition
 aliases: copy on write
-sources: https://www.geeksforgeeks.org/copy-on-write,
-https://www.youtube.com/watch?v=ViUwLytKzTY&list=PL2Yggtk_pK6-R9ehjj0AoTnWrNOLChuld&index=51
+sources: 
+- https://www.geeksforgeeks.org/copy-on-write,
+- https://www.youtube.com/watch?v=ViUwLytKzTY&list=PL2Yggtk_pK6-R9ehjj0AoTnWrNOLChuld&index=51
 ---
 
 > Copy on Write

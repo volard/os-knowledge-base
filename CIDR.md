@@ -1,6 +1,6 @@
 ---
 tags: definition
-aliases: **Classless Inter-Domain Routing**
+aliases: Classless Inter-Domain Routing
 sources: 
 ---
 
