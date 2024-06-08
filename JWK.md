@@ -1,7 +1,10 @@
 ---
-aliases: 
-tags: 
-sources: https://tools.ietf.org/html/rfc7517, https://codecurated.com/blog/introduction-to-jwt-jws-jwe-jwa-jwk/#json-web-algorithm-jwa
+aliases:
+  - JSON Web Key
+tags:
+  - security
+sources:
+  - https://tools.ietf.org/html/rfc7517, https://codecurated.com/blog/introduction-to-jwt-jws-jwe-jwa-jwk/#json-web-algorithm-jwa
 ---
 > Data structure that contains information about hashing function's cryptographic key.
 

@@ -1,6 +1,6 @@
 # 🖥️ Operating systems notes
 
-> Poorly linked [Obsidian](https://www.obsidian.net/) vault
+> Poorly linked [Obsidian](https://www.obsidian.net/) vault which is basically huuuge Wikipedia copy-paste
 
 Use `graph view`, `search prompt` and `backlinks` for navigation. 
 

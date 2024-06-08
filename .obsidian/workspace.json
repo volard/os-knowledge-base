@@ -4,69 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5336f227de799c74",
+        "id": "c0a03e3b22b58036",
         "type": "tabs",
         "children": [
           {
-            "id": "d409ba3dfba9e64e",
+            "id": "f3f5846d92a922ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "truststore.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99ea0e4a262400da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECDSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23ab820a62516a74",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/user_oauth_flow.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "c406f1e83e474c8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "session management strategies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7e962203711d3ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BGP.md",
+                "file": "postgres.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "84ffbbfe4aed191e",
@@ -140,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BGP.md",
+                "file": "postgres.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BGP.md",
+                "file": "postgres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BGP.md"
+                "file": "postgres.md"
               }
             }
           },
@@ -206,7 +160,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -215,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,53 +180,53 @@
       "graph:Open graph view": true,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "random-note:Open random note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a7e962203711d3ea",
+  "active": "f3f5846d92a922ff",
   "lastOpenFiles": [
-    "Back pressure.md",
-    "Authorization request header.md",
-    "B-tree.md",
-    "CLI/unix-like/adduser.md",
-    "SSL/TLS certificate.md",
-    "Active Directory Domain Service.md",
-    "Active Directory.md",
-    "Access Control List.md",
-    "cow.md",
-    "templates/base.md",
-    "JWT.md",
-    "CIDR.md",
-    "serialization.md",
-    "Some sources.md",
-    "Authentication.md",
-    "session management strategies.md",
+    "nginx.md",
+    "postgres.md",
+    "proxy.md",
     "truststore.md",
-    "hybrid cryptosystem.md",
-    "integrated encryption scheme.md",
+    "ECDSA.md",
+    "Excalidraw/user_oauth_flow.excalidraw.md",
+    "session management strategies.md",
+    "README.md",
+    "lwIP.md",
+    "loopback.md",
+    "localStorage.md",
+    "live migration.md",
+    "linux task sheduling.md",
+    "linux network interfaces.md",
+    "linux file structure.md",
+    "linux boot process.md",
+    "link layer.md",
+    "LDAP.md",
+    "Layered pattern.md",
+    "LAN.md",
+    "KVM.md",
+    "KISS.md",
+    "keystore.md",
+    "Key-value database.md",
     "key establishment.md",
-    "digital signature.md",
-    "ECC.md",
-    "hybrid encryption scheme.md",
-    "ECDH.md",
-    "cryptosystem.md",
-    "Diffie–Hellman Key Exchange.md",
+    "key derivation functions.md",
+    "Excalidraw/fork with exec illustratedexcalidraw.png",
+    "Excalidraw/exec call illustrated.excalidraw.png",
+    "Excalidraw/domain namespace.excalidraw.png",
+    "Excalidraw/COW illustrated.excalidraw.png",
+    "assets/WOL in a nutshell.png",
+    "assets/Pasted image 20220601214017.png",
+    "assets/Linux file structure.png",
+    "assets/API in a nutshell.png",
     "Excalidraw/STL flow.excalidraw.png",
     "Excalidraw/STL flow.excalidraw.excalidraw",
     "Excalidraw/full_oauth_flow.excalidraw.excalidraw",
     "Excalidraw/user_oauth_flow.excalidraw.png",
     "Excalidraw/user_oauth_flow.excalidraw.excalidraw",
-    "Excalidraw/full_oauth_flow.excalidraw.png",
     "SSL",
-    "assets/API in a nutshell.png",
-    "assets/Linux file structure.png",
-    "assets/WOL in a nutshell.png",
-    "assets/Pasted image 20220601214017.png",
-    "Excalidraw/attachments/Pasted Image 20230621142318_298.png",
-    "Excalidraw/attachments/Pasted Image 20230621120542_287.png",
-    "Excalidraw/attachments/Pasted Image 20230623020023_351.png",
     "Excalidraw/IPv4 address format.excalidraw.excalidraw",
     "I",
     "Excalidraw/network physical topologies.excalidraw.excalidraw",
