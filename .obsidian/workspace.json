@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "082c1b821f95d478",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
           }
         ]
       }
@@ -77,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 212.5
   },
   "right": {
     "id": "84ffbbfe4aed191e",
@@ -185,8 +194,23 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f3f5846d92a922ff",
+  "active": "d9c35bb4a2da5aad",
   "lastOpenFiles": [
+    "СМО ебаные, но разобранные нормально.md",
+    "Why need to use STL.md",
+    "Unordered associative containers.md",
+    "time series data.md",
+    "STL algorithms.md",
+    "Sequence containers.md",
+    "Min Heap.md",
+    "Iterators in C++ STL.md",
+    "irregular timeline.md",
+    "Index.md",
+    "Hash table.md",
+    "Erase–remove idiom.md",
+    "cut in graph theory.md",
+    "Container adapters.md",
+    "Associative containers.md",
     "nginx.md",
     "postgres.md",
     "proxy.md",
@@ -198,21 +222,6 @@
     "lwIP.md",
     "loopback.md",
     "localStorage.md",
-    "live migration.md",
-    "linux task sheduling.md",
-    "linux network interfaces.md",
-    "linux file structure.md",
-    "linux boot process.md",
-    "link layer.md",
-    "LDAP.md",
-    "Layered pattern.md",
-    "LAN.md",
-    "KVM.md",
-    "KISS.md",
-    "keystore.md",
-    "Key-value database.md",
-    "key establishment.md",
-    "key derivation functions.md",
     "Excalidraw/fork with exec illustratedexcalidraw.png",
     "Excalidraw/exec call illustrated.excalidraw.png",
     "Excalidraw/domain namespace.excalidraw.png",

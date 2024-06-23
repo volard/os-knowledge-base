@@ -1,0 +1,1 @@
+A group of edges that connects two sets of vertices in a graph

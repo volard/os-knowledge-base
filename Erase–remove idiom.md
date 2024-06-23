@@ -1,0 +1,1 @@
+The **erase–remove idiom** is a common [C++](https://en.wikipedia.org/wiki/C%2B%2B "C++") technique to eliminate elements that fulfill a certain criterion from a [C++ Standard Library](https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library "C++ Standard Library") container
