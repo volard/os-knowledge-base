@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "postgres.md",
+                "file": "routing schemes.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "postgres.md",
+                "file": "routing schemes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "postgres.md",
+                "file": "routing schemes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "postgres.md"
+                "file": "routing schemes.md"
               }
             }
           },
@@ -194,8 +194,23 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d9c35bb4a2da5aad",
+  "active": "f3f5846d92a922ff",
   "lastOpenFiles": [
+    "Excalidraw/unicast.excalidraw.md",
+    "Excalidraw/multicast.excalidraw.md",
+    "Excalidraw/anycast.excalidraw.md",
+    "routing schemes.md",
+    "Excalidraw/anycast.excalidraw.png",
+    "Excalidraw/anycast.excalidraw.excalidraw",
+    "Excalidraw/unicast.excalidraw.png",
+    "Excalidraw/broadcast.excalidraw.png",
+    "Excalidraw/multicast.excalidraw.png",
+    "Excalidraw/multicast.excalidraw.excalidraw",
+    "Excalidraw/broadcast.excalidraw.md",
+    "Excalidraw/broadcast.excalidraw.excalidraw",
+    "Excalidraw/unicast.excalidraw.excalidraw",
+    "DHCP.md",
+    "postgres.md",
     "СМО ебаные, но разобранные нормально.md",
     "Why need to use STL.md",
     "Unordered associative containers.md",
@@ -212,36 +227,20 @@
     "Container adapters.md",
     "Associative containers.md",
     "nginx.md",
-    "postgres.md",
     "proxy.md",
     "truststore.md",
-    "ECDSA.md",
-    "Excalidraw/user_oauth_flow.excalidraw.md",
-    "session management strategies.md",
-    "README.md",
-    "lwIP.md",
-    "loopback.md",
-    "localStorage.md",
     "Excalidraw/fork with exec illustratedexcalidraw.png",
     "Excalidraw/exec call illustrated.excalidraw.png",
     "Excalidraw/domain namespace.excalidraw.png",
     "Excalidraw/COW illustrated.excalidraw.png",
     "assets/WOL in a nutshell.png",
     "assets/Pasted image 20220601214017.png",
-    "assets/Linux file structure.png",
-    "assets/API in a nutshell.png",
-    "Excalidraw/STL flow.excalidraw.png",
     "Excalidraw/STL flow.excalidraw.excalidraw",
     "Excalidraw/full_oauth_flow.excalidraw.excalidraw",
-    "Excalidraw/user_oauth_flow.excalidraw.png",
     "Excalidraw/user_oauth_flow.excalidraw.excalidraw",
     "SSL",
     "Excalidraw/IPv4 address format.excalidraw.excalidraw",
     "I",
-    "Excalidraw/network physical topologies.excalidraw.excalidraw",
-    "Excalidraw/UDP data to Link TCP IP layer encapsulation.excalidraw.excalidraw",
-    "Excalidraw/libs/systems-design-components.excalidrawlib",
-    "Excalidraw/libs/some-handdrawn-signs.excalidrawlib",
     "Untitled.canvas"
   ]
 }
