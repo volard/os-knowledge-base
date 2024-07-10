@@ -3,7 +3,7 @@ tags: definition
 aliases: gateways, residential gateway
 sources: 
 ---
-
+# As a hardware
 > A piece of networking hardware or software used in telecommunications networks that allows data to flow from one discrete network to another
 
 Distinct from routers or switches in that they communicate using more than one protocol to connect multiple [[network|networks]] and can operate at any of the [[OSI]]'s seven layers
@@ -16,3 +16,14 @@ Distinct from routers or switches in that they communicate using more than one p
 ---
 
 In enterprise networks, a network gateway usually also acts as a proxy server and a firewall.
+
+# As a software
+A Gateway stands as a resolution for the address 
+
+Gateway Protocols
+
+- EGP (Exterior Gateway Protocol)
+- BGP (Border Gateway Protocol)
+- RIP (Routing Information Protocol)
+- Hello Protocol
+- OSPF (Open Shortest Path First)

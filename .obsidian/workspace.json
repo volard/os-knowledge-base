@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gateway.md",
+                "file": "Virtual private network.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gateway.md",
+                "file": "Virtual private network.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gateway.md",
+                "file": "Virtual private network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gateway.md"
+                "file": "Virtual private network.md"
               }
             }
           },
@@ -186,6 +186,19 @@
   },
   "active": "7a975a3143e7cc82",
   "lastOpenFiles": [
+    "CLI/unix-like/tcpdump.md",
+    "CLI/unix-like/traceroute.md",
+    "CLI/unix-like/netstat.md",
+    "NAT.md",
+    "DHCP.md",
+    "CLI/unix-like/ping.md",
+    "firewall.md",
+    "NFS.md",
+    "NAS.md",
+    "BIND.md",
+    "DNS.md",
+    "routing table.md",
+    "gateway.md",
     "MAC.md",
     "message authentication.md",
     "CLI/windows/ipconfig.md",
@@ -202,25 +215,12 @@
     "Internet protocol suite.md",
     "Transmission Control Protocol.md",
     "protocol.md",
-    "daemon.md",
-    "TCP.md",
-    "Back pressure.md",
     "assets/linux file structure compact.png",
     "assets/linux boot process.png",
     "assets/mvc derived patterns overview.png",
     "assets/linux file permissions.png",
     "assets/dns.png",
-    "loopback.md",
     "assets/linux lvm.png",
-    "linux file structure.md",
-    "Rsync.md",
-    "scp.md",
-    "SFTP.md",
-    "SSH.md",
-    "SSH File Transfer Protocol.md",
-    "Untitled.md",
-    "CLI/windows/coreinfo.md",
-    "FTP.md",
     "update.ps1",
     "Excalidraw/anycast.excalidraw.png",
     "Excalidraw/anycast.excalidraw.excalidraw",
