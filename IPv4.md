@@ -8,7 +8,7 @@ sources:
 32 bits (four bytes)
 Form: `xxx.xxx.xxx.xxx`, where `xxx` are three, or fewer, numbers between 0 and 255
 
-## Subnetting
+# Subnetting
 IP address is made up of network bits and host bits
 
 ## [[classfull network|IP classification]]
@@ -38,3 +38,5 @@ The address may denote a specific interface address or it may be the beginning a
 The number of addresses inside a network or subnet may be calculated as 2^{address length − prefix length}, where address length is `128` for [[IPv6]] and `32` for [[IPv4]]. 
 For example, in [[IPv4]], the prefix length `/29` gives: $2^{32 − 29}$ = $2^3$ = 8 addresses.
 
+---
+[IP calculator](https://ipmeter.ru)

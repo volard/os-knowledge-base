@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c0a03e3b22b58036",
+        "id": "78acc6892eb3a4fa",
         "type": "tabs",
         "children": [
           {
-            "id": "f3f5846d92a922ff",
+            "id": "7a975a3143e7cc82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Back pressure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b5cb130dcb10dd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FTPS.md",
+                "file": "gateway.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "localhost",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Back pressure.md",
+                "file": "gateway.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Back pressure.md",
+                "file": "gateway.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Back pressure.md"
+                "file": "gateway.md"
               }
             }
           },
@@ -196,8 +184,27 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d9c35bb4a2da5aad",
+  "active": "7a975a3143e7cc82",
   "lastOpenFiles": [
+    "MAC.md",
+    "message authentication.md",
+    "CLI/windows/ipconfig.md",
+    "assets/MAC address format.png",
+    "assets/Pasted image 20220601214017.png",
+    "attachments",
+    "Ethernet.md",
+    "FTPS.md",
+    "IPv4.md",
+    "CIDR.md",
+    "classfull network.md",
+    "IP.md",
+    "IPv6.md",
+    "Internet protocol suite.md",
+    "Transmission Control Protocol.md",
+    "protocol.md",
+    "daemon.md",
+    "TCP.md",
+    "Back pressure.md",
     "assets/linux file structure compact.png",
     "assets/linux boot process.png",
     "assets/mvc derived patterns overview.png",
@@ -211,39 +218,20 @@
     "SFTP.md",
     "SSH.md",
     "SSH File Transfer Protocol.md",
-    "FTPS.md",
     "Untitled.md",
     "CLI/windows/coreinfo.md",
     "FTP.md",
-    "MAC.md",
     "update.ps1",
-    "message authentication.md",
-    "routing schemes.md",
-    "Excalidraw/unicast.excalidraw.md",
-    "Excalidraw/multicast.excalidraw.md",
-    "Excalidraw/anycast.excalidraw.md",
     "Excalidraw/anycast.excalidraw.png",
     "Excalidraw/anycast.excalidraw.excalidraw",
     "Excalidraw/unicast.excalidraw.png",
-    "Excalidraw/broadcast.excalidraw.png",
-    "Excalidraw/multicast.excalidraw.png",
     "Excalidraw/multicast.excalidraw.excalidraw",
-    "Excalidraw/broadcast.excalidraw.md",
     "Excalidraw/broadcast.excalidraw.excalidraw",
     "Excalidraw/unicast.excalidraw.excalidraw",
-    "DHCP.md",
-    "postgres.md",
-    "СМО ебаные, но разобранные нормально.md",
-    "Why need to use STL.md",
-    "Unordered associative containers.md",
-    "time series data.md",
-    "STL algorithms.md",
-    "Excalidraw/fork with exec illustratedexcalidraw.png",
     "Excalidraw/STL flow.excalidraw.excalidraw",
     "Excalidraw/full_oauth_flow.excalidraw.excalidraw",
     "Excalidraw/user_oauth_flow.excalidraw.excalidraw",
     "SSL",
-    "Excalidraw/IPv4 address format.excalidraw.excalidraw",
     "Untitled.canvas"
   ]
 }
