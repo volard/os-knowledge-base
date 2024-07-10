@@ -15,4 +15,6 @@ These addresses are private and link-local by definition, since packets never le
 
 **localhost** - [[hostname]] that refers to the current computer used to access it
 
-Other reserved addresses: https://en.wikipedia.org/wiki/Reserved_IP_addresses
+SSRF localhost aliases http://localhost http://*.localhost http://127.1 http://127.0.0.0 http://127.0.0.1 http://2130706433 http://0177.1 http://0x7f.1 http://127.000.000.1 http://fbi .com http://[::1] http://[::] http://0
+
+[Other reserved addresses](https://en.wikipedia.org/wiki/Reserved_IP_addresses)
