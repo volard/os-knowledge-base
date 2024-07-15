@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gateway.md",
+                "file": "sfp.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "right": {
     "id": "84ffbbfe4aed191e",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gateway.md",
+                "file": "sfp.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gateway.md",
+                "file": "sfp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gateway.md"
+                "file": "sfp.md"
               }
             }
           },
@@ -186,6 +187,9 @@
   },
   "active": "7a975a3143e7cc82",
   "lastOpenFiles": [
+    "Optical fiber connector.md",
+    "sfp.md",
+    "gateway.md",
     "MAC.md",
     "message authentication.md",
     "CLI/windows/ipconfig.md",
@@ -218,9 +222,6 @@
     "SFTP.md",
     "SSH.md",
     "SSH File Transfer Protocol.md",
-    "Untitled.md",
-    "CLI/windows/coreinfo.md",
-    "FTP.md",
     "update.ps1",
     "Excalidraw/anycast.excalidraw.png",
     "Excalidraw/anycast.excalidraw.excalidraw",
