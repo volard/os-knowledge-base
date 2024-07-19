@@ -20,3 +20,6 @@ Client here called as `DNS resolver`.
 So `DNS resolver` initiates request called `resolution request` .
 
 The first [[Domain Name Server|server]] that gets the query might not be able to answer the query by itself. So, it might seek answers from another [[Domain Name Server|DNS server]], and while doing that, it takes the role of a `DNS resolver`.
+
+---
+One of the popular DNS implementation is [[BIND]]
