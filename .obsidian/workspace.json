@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sfp.md",
+                "file": "CLI/unix-like/grep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c6c55113c7f8030",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zmodem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "right": {
     "id": "84ffbbfe4aed191e",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sfp.md",
+                "file": "zmodem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sfp.md",
+                "file": "zmodem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sfp.md"
+                "file": "zmodem.md"
               }
             }
           },
@@ -185,10 +197,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7a975a3143e7cc82",
+  "active": "2c6c55113c7f8030",
   "lastOpenFiles": [
-    "Optical fiber connector.md",
+    "CLI/unix-like/grep.md",
+    "zmodem.md",
+    "CRC.md",
+    "CLI/regex.md",
+    "CLI/unix-like/gping.md",
+    "CLI/unix-like/du.md",
     "sfp.md",
+    "Optical fiber connector.md",
     "gateway.md",
     "MAC.md",
     "message authentication.md",
@@ -216,12 +234,6 @@
     "assets/dns.png",
     "loopback.md",
     "assets/linux lvm.png",
-    "linux file structure.md",
-    "Rsync.md",
-    "scp.md",
-    "SFTP.md",
-    "SSH.md",
-    "SSH File Transfer Protocol.md",
     "update.ps1",
     "Excalidraw/anycast.excalidraw.png",
     "Excalidraw/anycast.excalidraw.excalidraw",
