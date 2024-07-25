@@ -1,6 +1,6 @@
 > Basic input/output system  — a set of micro programs
 
-contains all the code to gain initial access to the main machine devices:
+Contains all the code to gain initial access to the main machine devices:
 - keyboard
 - display screen
 - disk drives

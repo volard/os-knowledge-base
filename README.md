@@ -8,6 +8,7 @@ Use `graph view`, `search prompt` and `backlinks` for navigation.
 - [x] Eliminate anki connection templated notes
 - [x] Remove all long reads
 - [x] Remove stupid stuff (like "uh what's difference between mobile and desktop GUI hmmm")
+- [ ] https://www.youtube.com/watch?v=DdUy4PYigkw
 - [ ] Add new theory
 	- [ ] memory
 	- [ ] basic network concepts
