@@ -1,6 +1,12 @@
-# 🖥️ Operating systems notes
+# ♻ Operating systems notes
 
-> Poorly linked [Obsidian](https://www.obsidian.net/) vault which is basically huuuge Wikipedia copy-paste
+> 1. I stopped using Obsidian
+> 2. My notes worthless anyways
+
+<details>
+<summary>Original ReadMe</summary>
+	
+Poorly linked [Obsidian](https://www.obsidian.net/) vault which is basically huuuge Wikipedia copy-paste
 
 Use `graph view`, `search prompt` and `backlinks` for navigation. 
 
@@ -33,3 +39,4 @@ under one umbrella
 - [Wikipedia](https://en.wikipedia.org)
 - [Nakov's Cryptobook](https://cryptobook.nakov.com)
 - …
+</details>
